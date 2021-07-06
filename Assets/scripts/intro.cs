@@ -5,7 +5,6 @@ using UnityEngine.SceneManagement;
 public class intro : MonoBehaviour
 {
     public Animation bruteImage;
-        
     public Animator BruteText;
     public Animator BruteBallAnimator;
     public Animator BruteBallText;
@@ -18,7 +17,6 @@ public class intro : MonoBehaviour
         BruteText.Play("introText1");
         StartCoroutine(introOne());
     }
-
     IEnumerator introOne()
     {
         yield return new WaitForSeconds(5);
