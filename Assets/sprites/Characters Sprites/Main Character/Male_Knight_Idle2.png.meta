@@ -1,7 +1,79 @@
 fileFormatVersion: 2
 guid: f2f2e41e58851f041b22bab2bd3e5897
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -5304013550944652304
+    second: Male_Knight_Idle2_0
+  - first:
+      213: 6847507848996880556
+    second: Male_Knight_Idle2_1
+  - first:
+      213: -6098807756242837041
+    second: Male_Knight_Idle2_2
+  - first:
+      213: -5812431017763774239
+    second: Male_Knight_Idle2_3
+  - first:
+      213: 3253158417767318252
+    second: Male_Knight_Idle2_4
+  - first:
+      213: 3067075057876111525
+    second: Male_Knight_Idle2_5
+  - first:
+      213: 3799587291309699528
+    second: Male_Knight_Idle2_6
+  - first:
+      213: 1266567305563910376
+    second: Male_Knight_Idle2_7
+  - first:
+      213: 9016111880503953426
+    second: Male_Knight_Idle2_8
+  - first:
+      213: -4522317051219752884
+    second: Male_Knight_Idle2_9
+  - first:
+      213: 3771496964236111237
+    second: Male_Knight_Idle2_10
+  - first:
+      213: 4430705517014820846
+    second: Male_Knight_Idle2_11
+  - first:
+      213: -1952164238823752238
+    second: Male_Knight_Idle2_12
+  - first:
+      213: -3314690778107578507
+    second: Male_Knight_Idle2_13
+  - first:
+      213: -4067477143801285327
+    second: Male_Knight_Idle2_14
+  - first:
+      213: 641262752835839572
+    second: Male_Knight_Idle2_15
+  - first:
+      213: -3088789141218268244
+    second: Male_Knight_Idle2_16
+  - first:
+      213: 1733666456392232632
+    second: Male_Knight_Idle2_17
+  - first:
+      213: 4242194219169033327
+    second: Male_Knight_Idle2_18
+  - first:
+      213: -9093560030935349801
+    second: Male_Knight_Idle2_19
+  - first:
+      213: -3349919283642081022
+    second: Male_Knight_Idle2_20
+  - first:
+      213: -7465222276388556654
+    second: Male_Knight_Idle2_21
+  - first:
+      213: 3958229049209409027
+    second: Male_Knight_Idle2_22
+  - first:
+      213: 2549411918243759126
+    second: Male_Knight_Idle2_23
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -41,7 +113,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -75,9 +147,525 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Male_Knight_Idle2_0
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1141
+        width: 47
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f3f51cf6cb5466b0800000000000000
+      internalID: -5304013550944652304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Knight_Idle2_1
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1141
+        width: 47
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca08828eb1c370f50800000000000000
+      internalID: 6847507848996880556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Knight_Idle2_2
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1141
+        width: 46
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1afb798aeac5ba0800000000000000
+      internalID: -6098807756242837041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Knight_Idle2_3
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 981
+        width: 64
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e06ab0f8c8165fa0800000000000000
+      internalID: -5812431017763774239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Knight_Idle2_4
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 981
+        width: 65
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce2c711585a852d20800000000000000
+      internalID: 3253158417767318252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Knight_Idle2_5
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 981
+        width: 65
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a09a2cd380709a20800000000000000
+      internalID: 3067075057876111525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Knight_Idle2_6
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 831
+        width: 64
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c17a97a288dab430800000000000000
+      internalID: 3799587291309699528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Knight_Idle2_7
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 831
+        width: 65
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e0b24cf040c39110800000000000000
+      internalID: 1266567305563910376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Knight_Idle2_8
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 831
+        width: 65
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2180e946cf9af1d70800000000000000
+      internalID: 9016111880503953426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Knight_Idle2_9
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 671
+        width: 49
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c48ca582a908d31c0800000000000000
+      internalID: -4522317051219752884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Knight_Idle2_10
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 671
+        width: 48
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58de1c8b18c075430800000000000000
+      internalID: 3771496964236111237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Knight_Idle2_11
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 671
+        width: 48
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee7280e51370d7d30800000000000000
+      internalID: 4430705517014820846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Knight_Idle2_12
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 504
+        width: 53
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd70b1c7f488e4e0800000000000000
+      internalID: -1952164238823752238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Knight_Idle2_13
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 504
+        width: 52
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57772ae9c4adff1d0800000000000000
+      internalID: -3314690778107578507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Knight_Idle2_14
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 503
+        width: 52
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13534bf861b6d87c0800000000000000
+      internalID: -4067477143801285327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Knight_Idle2_15
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 344
+        width: 59
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456287e731936e800800000000000000
+      internalID: 641262752835839572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Knight_Idle2_16
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 344
+        width: 59
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cabe99324aa6225d0800000000000000
+      internalID: -3088789141218268244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Knight_Idle2_17
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 344
+        width: 59
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bee44ce4783f0810800000000000000
+      internalID: 1733666456392232632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Knight_Idle2_18
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 190
+        width: 59
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c29cd8a2d4fda30800000000000000
+      internalID: 4242194219169033327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Knight_Idle2_19
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 190
+        width: 59
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d58864e45f2dc180800000000000000
+      internalID: -9093560030935349801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Knight_Idle2_20
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 190
+        width: 59
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20168400922b281d0800000000000000
+      internalID: -3349919283642081022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Knight_Idle2_21
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 31
+        width: 49
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290f68e54e3366890800000000000000
+      internalID: -7465222276388556654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Knight_Idle2_22
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 31
+        width: 49
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e42c149547ee630800000000000000
+      internalID: 3958229049209409027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Knight_Idle2_23
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 31
+        width: 49
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614011dd1a4516320800000000000000
+      internalID: 2549411918243759126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

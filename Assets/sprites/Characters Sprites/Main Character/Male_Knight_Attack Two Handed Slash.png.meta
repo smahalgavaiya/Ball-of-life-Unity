@@ -1,7 +1,79 @@
 fileFormatVersion: 2
 guid: 759cad0a506d82f43af3ea878167c929
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -2939492687201878032
+    second: Male_Knight_Attack Two Handed Slash_0
+  - first:
+      213: -2879927545423283490
+    second: Male_Knight_Attack Two Handed Slash_1
+  - first:
+      213: -7765084933970185746
+    second: Male_Knight_Attack Two Handed Slash_2
+  - first:
+      213: 6841155469836813097
+    second: Male_Knight_Attack Two Handed Slash_3
+  - first:
+      213: -3357084281181719455
+    second: Male_Knight_Attack Two Handed Slash_4
+  - first:
+      213: 531248906294025765
+    second: Male_Knight_Attack Two Handed Slash_5
+  - first:
+      213: 3268095720023697501
+    second: Male_Knight_Attack Two Handed Slash_6
+  - first:
+      213: -1800120935914652380
+    second: Male_Knight_Attack Two Handed Slash_7
+  - first:
+      213: 6735984225248037502
+    second: Male_Knight_Attack Two Handed Slash_8
+  - first:
+      213: 1512424439087493939
+    second: Male_Knight_Attack Two Handed Slash_9
+  - first:
+      213: -5165957369296105177
+    second: Male_Knight_Attack Two Handed Slash_10
+  - first:
+      213: -3355733639592903076
+    second: Male_Knight_Attack Two Handed Slash_11
+  - first:
+      213: -2415592806402089391
+    second: Male_Knight_Attack Two Handed Slash_12
+  - first:
+      213: 4446656424461744515
+    second: Male_Knight_Attack Two Handed Slash_13
+  - first:
+      213: 421990107799194421
+    second: Male_Knight_Attack Two Handed Slash_14
+  - first:
+      213: -7820727978073279476
+    second: Male_Knight_Attack Two Handed Slash_15
+  - first:
+      213: 3612648931242948210
+    second: Male_Knight_Attack Two Handed Slash_16
+  - first:
+      213: 1444157602322484200
+    second: Male_Knight_Attack Two Handed Slash_17
+  - first:
+      213: -7450168815937752075
+    second: Male_Knight_Attack Two Handed Slash_18
+  - first:
+      213: -96687516563020824
+    second: Male_Knight_Attack Two Handed Slash_19
+  - first:
+      213: 3521487152226306100
+    second: Male_Knight_Attack Two Handed Slash_20
+  - first:
+      213: -9041516666299674449
+    second: Male_Knight_Attack Two Handed Slash_21
+  - first:
+      213: -6771959394539996278
+    second: Male_Knight_Attack Two Handed Slash_22
+  - first:
+      213: 3764403165998990737
+    second: Male_Knight_Attack Two Handed Slash_23
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -41,7 +113,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -75,9 +147,525 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Male_Knight_Attack Two Handed Slash_0
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1146
+        width: 40
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff397f99f2d437d0800000000000000
+      internalID: -2939492687201878032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Knight_Attack Two Handed Slash_1
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1157
+        width: 64
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edabe2ce7217808d0800000000000000
+      internalID: -2879927545423283490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Knight_Attack Two Handed Slash_2
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 1131
+        width: 42
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee138fbc460ec3490800000000000000
+      internalID: -7765084933970185746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Knight_Attack Two Handed Slash_3
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 991
+        width: 53
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92308d067aaa0fe50800000000000000
+      internalID: 6841155469836813097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Knight_Attack Two Handed Slash_4
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 993
+        width: 69
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164bd1302ad3961d0800000000000000
+      internalID: -3357084281181719455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Knight_Attack Two Handed Slash_5
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 992
+        width: 123
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e58fac0106f5700800000000000000
+      internalID: 531248906294025765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Knight_Attack Two Handed Slash_6
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 828
+        width: 54
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d58acf30ebb9a5d20800000000000000
+      internalID: 3268095720023697501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Knight_Attack Two Handed Slash_7
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 828
+        width: 71
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d3016db8fa407e0800000000000000
+      internalID: -1800120935914652380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Knight_Attack Two Handed Slash_8
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 830
+        width: 122
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a4b8ec6f50b7d50800000000000000
+      internalID: 6735984225248037502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Knight_Attack Two Handed Slash_9
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 659
+        width: 45
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 333fd61a3063df410800000000000000
+      internalID: 1512424439087493939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Knight_Attack Two Handed Slash_10
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 658
+        width: 41
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7215b4e9425de48b0800000000000000
+      internalID: -5165957369296105177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Knight_Attack Two Handed Slash_11
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 659
+        width: 43
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e7c33c80a0e61d0800000000000000
+      internalID: -3355733639592903076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Knight_Attack Two Handed Slash_12
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 510
+        width: 44
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e1a6414271a7ed0800000000000000
+      internalID: -2415592806402089391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Knight_Attack Two Handed Slash_13
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 514
+        width: 60
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389304a6572b5bd30800000000000000
+      internalID: 4446656424461744515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Knight_Attack Two Handed Slash_14
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 501
+        width: 102
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b891a64c53bd500800000000000000
+      internalID: 421990107799194421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Knight_Attack Two Handed Slash_15
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 344
+        width: 50
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04bbf50751377390800000000000000
+      internalID: -7820727978073279476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Knight_Attack Two Handed Slash_16
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 343
+        width: 56
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2763ee4ff05b22230800000000000000
+      internalID: 3612648931242948210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Knight_Attack Two Handed Slash_17
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 344
+        width: 86
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb8c1610bdaa0410800000000000000
+      internalID: 1444157602322484200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Knight_Attack Two Handed Slash_18
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 188
+        width: 50
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f376514feeab9890800000000000000
+      internalID: -7450168815937752075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Knight_Attack Two Handed Slash_19
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 189
+        width: 54
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e3eb09473f78aef0800000000000000
+      internalID: -96687516563020824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Knight_Attack Two Handed Slash_20
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 177
+        width: 90
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4380d8548e5ded030800000000000000
+      internalID: 3521487152226306100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Knight_Attack Two Handed Slash_21
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 16
+        width: 49
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa01f6afe74168280800000000000000
+      internalID: -9041516666299674449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Knight_Attack Two Handed Slash_22
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 15
+        width: 65
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8bf21f5fca2502a0800000000000000
+      internalID: -6771959394539996278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Knight_Attack Two Handed Slash_23
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 17
+        width: 92
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 195c9bc1cb8dd3430800000000000000
+      internalID: 3764403165998990737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

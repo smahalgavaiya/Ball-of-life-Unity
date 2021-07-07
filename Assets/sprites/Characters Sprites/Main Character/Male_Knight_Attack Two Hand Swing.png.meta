@@ -1,7 +1,79 @@
 fileFormatVersion: 2
 guid: be4786c8324c25042b5d7801f2e8165b
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -4360183947069871372
+    second: Male_Knight_Attack Two Hand Swing_0
+  - first:
+      213: 985521347336855345
+    second: Male_Knight_Attack Two Hand Swing_1
+  - first:
+      213: -1947931950585034794
+    second: Male_Knight_Attack Two Hand Swing_2
+  - first:
+      213: 5713046359864073621
+    second: Male_Knight_Attack Two Hand Swing_3
+  - first:
+      213: -6109488035803651552
+    second: Male_Knight_Attack Two Hand Swing_4
+  - first:
+      213: 5473880444865325174
+    second: Male_Knight_Attack Two Hand Swing_5
+  - first:
+      213: 4626943507146263724
+    second: Male_Knight_Attack Two Hand Swing_6
+  - first:
+      213: -6830308119811515877
+    second: Male_Knight_Attack Two Hand Swing_7
+  - first:
+      213: -459770715847052911
+    second: Male_Knight_Attack Two Hand Swing_8
+  - first:
+      213: 4406399651049203774
+    second: Male_Knight_Attack Two Hand Swing_9
+  - first:
+      213: 3933510952896991875
+    second: Male_Knight_Attack Two Hand Swing_10
+  - first:
+      213: -7285514713818031982
+    second: Male_Knight_Attack Two Hand Swing_11
+  - first:
+      213: -966178251575755761
+    second: Male_Knight_Attack Two Hand Swing_12
+  - first:
+      213: 9181544535211959292
+    second: Male_Knight_Attack Two Hand Swing_13
+  - first:
+      213: 4352294104200869899
+    second: Male_Knight_Attack Two Hand Swing_14
+  - first:
+      213: 5944682921731923365
+    second: Male_Knight_Attack Two Hand Swing_15
+  - first:
+      213: 4262461388118910126
+    second: Male_Knight_Attack Two Hand Swing_16
+  - first:
+      213: 8412132700276538024
+    second: Male_Knight_Attack Two Hand Swing_17
+  - first:
+      213: 1148380267810768425
+    second: Male_Knight_Attack Two Hand Swing_18
+  - first:
+      213: -7973697091361209108
+    second: Male_Knight_Attack Two Hand Swing_19
+  - first:
+      213: 6441849854496439352
+    second: Male_Knight_Attack Two Hand Swing_20
+  - first:
+      213: -3237177937280782260
+    second: Male_Knight_Attack Two Hand Swing_21
+  - first:
+      213: 4111913917280080635
+    second: Male_Knight_Attack Two Hand Swing_22
+  - first:
+      213: 8845466457158502076
+    second: Male_Knight_Attack Two Hand Swing_23
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -41,7 +113,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -75,9 +147,525 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Male_Knight_Attack Two Hand Swing_0
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1137
+        width: 42
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa2a872dc38d73c0800000000000000
+      internalID: -4360183947069871372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Knight_Attack Two Hand Swing_1
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1137
+        width: 45
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13fd392a1764dad00800000000000000
+      internalID: 985521347336855345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Knight_Attack Two Hand Swing_2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1135
+        width: 38
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7ceb6263e87f4e0800000000000000
+      internalID: -1947931950585034794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Knight_Attack Two Hand Swing_3
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 991
+        width: 77
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d59013561d84f40800000000000000
+      internalID: 5713046359864073621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Knight_Attack Two Hand Swing_4
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 990
+        width: 62
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 022ac6a300db63ba0800000000000000
+      internalID: -6109488035803651552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Knight_Attack Two Hand Swing_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 990
+        width: 122
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678a723434127fb40800000000000000
+      internalID: 5473880444865325174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Knight_Attack Two Hand Swing_6
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 828
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cacc04bea94363040800000000000000
+      internalID: 4626943507146263724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Knight_Attack Two Hand Swing_7
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 828
+        width: 61
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a1b2c14fed531a0800000000000000
+      internalID: -6830308119811515877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Knight_Attack Two Hand Swing_8
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 829
+        width: 122
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1913fcb48f09e99f0800000000000000
+      internalID: -459770715847052911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Knight_Attack Two Hand Swing_9
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 659
+        width: 45
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e386133f22da62d30800000000000000
+      internalID: 4406399651049203774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Knight_Attack Two Hand Swing_10
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 659
+        width: 51
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382988bfe53a69630800000000000000
+      internalID: 3933510952896991875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Knight_Attack Two Hand Swing_11
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 656
+        width: 36
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2989ef4d7f6a4ea90800000000000000
+      internalID: -7285514713818031982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Knight_Attack Two Hand Swing_12
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 501
+        width: 61
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c7e1dcff17792f0800000000000000
+      internalID: -966178251575755761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Knight_Attack Two Hand Swing_13
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 501
+        width: 50
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3ecbedb166b6f70800000000000000
+      internalID: 9181544535211959292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Knight_Attack Two Hand Swing_14
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 500
+        width: 90
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b087be6ad64766c30800000000000000
+      internalID: 4352294104200869899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Knight_Attack Two Hand Swing_15
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 344
+        width: 58
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad992cfe91cf7250800000000000000
+      internalID: 5944682921731923365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Knight_Attack Two Hand Swing_16
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 344
+        width: 57
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea465ab8c0e472b30800000000000000
+      internalID: 4262461388118910126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Knight_Attack Two Hand Swing_17
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 340
+        width: 100
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa3e6b1f16edb470800000000000000
+      internalID: 8412132700276538024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Knight_Attack Two Hand Swing_18
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 183
+        width: 56
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926cde9e4cddfef00800000000000000
+      internalID: 1148380267810768425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Knight_Attack Two Hand Swing_19
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 183
+        width: 54
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce489daedbcb75190800000000000000
+      internalID: -7973697091361209108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Knight_Attack Two Hand Swing_20
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 183
+        width: 100
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c79a1ff4c066950800000000000000
+      internalID: 6441849854496439352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Knight_Attack Two Hand Swing_21
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 20
+        width: 61
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c40b5ad31db3313d0800000000000000
+      internalID: -3237177937280782260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Knight_Attack Two Hand Swing_22
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 20
+        width: 52
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf2d6720ce3701930800000000000000
+      internalID: 4111913917280080635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Knight_Attack Two Hand Swing_23
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 19
+        width: 90
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb6c093a0e861ca70800000000000000
+      internalID: 8845466457158502076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

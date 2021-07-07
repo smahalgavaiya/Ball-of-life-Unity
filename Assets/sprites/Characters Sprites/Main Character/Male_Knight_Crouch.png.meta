@@ -1,7 +1,79 @@
 fileFormatVersion: 2
 guid: bab365db4f562e946a673a630ddd6419
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -8483294880337630877
+    second: Male_Knight_Crouch_0
+  - first:
+      213: 4129314726525339396
+    second: Male_Knight_Crouch_1
+  - first:
+      213: -5453077470397985576
+    second: Male_Knight_Crouch_2
+  - first:
+      213: -8279594665516305011
+    second: Male_Knight_Crouch_3
+  - first:
+      213: 8543535260025071120
+    second: Male_Knight_Crouch_4
+  - first:
+      213: 910731478096397766
+    second: Male_Knight_Crouch_5
+  - first:
+      213: 5079578202692118053
+    second: Male_Knight_Crouch_6
+  - first:
+      213: 1422769225095753264
+    second: Male_Knight_Crouch_7
+  - first:
+      213: 5176980797385821637
+    second: Male_Knight_Crouch_8
+  - first:
+      213: -6451292467201523573
+    second: Male_Knight_Crouch_9
+  - first:
+      213: 5017689124653822392
+    second: Male_Knight_Crouch_10
+  - first:
+      213: 7610980634822726921
+    second: Male_Knight_Crouch_11
+  - first:
+      213: -8543275238502468360
+    second: Male_Knight_Crouch_12
+  - first:
+      213: -4588872458564893533
+    second: Male_Knight_Crouch_13
+  - first:
+      213: -1167979693458747105
+    second: Male_Knight_Crouch_14
+  - first:
+      213: 5241375010852317014
+    second: Male_Knight_Crouch_15
+  - first:
+      213: 7742355648199288765
+    second: Male_Knight_Crouch_16
+  - first:
+      213: -888152624849188751
+    second: Male_Knight_Crouch_17
+  - first:
+      213: 8198236908977426772
+    second: Male_Knight_Crouch_18
+  - first:
+      213: 9037037041333773747
+    second: Male_Knight_Crouch_19
+  - first:
+      213: -2894108719935147545
+    second: Male_Knight_Crouch_20
+  - first:
+      213: -3208497439643223073
+    second: Male_Knight_Crouch_21
+  - first:
+      213: -612759270995783098
+    second: Male_Knight_Crouch_22
+  - first:
+      213: 6261448217697172082
+    second: Male_Knight_Crouch_23
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -41,7 +113,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -75,9 +147,525 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Male_Knight_Crouch_0
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1168
+        width: 38
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 369e594b048454a80800000000000000
+      internalID: -8483294880337630877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Knight_Crouch_1
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1168
+        width: 38
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4070550add54e4930800000000000000
+      internalID: 4129314726525339396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Knight_Crouch_2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1168
+        width: 38
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc0e3caee6c254b0800000000000000
+      internalID: -5453077470397985576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Knight_Crouch_3
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1015
+        width: 48
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d857ea5d488f81d80800000000000000
+      internalID: -8279594665516305011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Knight_Crouch_4
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1015
+        width: 48
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 016a1dbad0cb09670800000000000000
+      internalID: 8543535260025071120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Knight_Crouch_5
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1015
+        width: 48
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c5c3bd347193ac00800000000000000
+      internalID: 910731478096397766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Knight_Crouch_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 844
+        width: 49
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526e74c66794e7640800000000000000
+      internalID: 5079578202692118053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Knight_Crouch_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 844
+        width: 49
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ea0337211beb310800000000000000
+      internalID: 1422769225095753264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Knight_Crouch_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 844
+        width: 49
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd433d3b9458d740800000000000000
+      internalID: 5176980797385821637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Knight_Crouch_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 690
+        width: 39
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80cc467ea76876a0800000000000000
+      internalID: -6451292467201523573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Knight_Crouch_10
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 690
+        width: 39
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1f45c8ca962a540800000000000000
+      internalID: 5017689124653822392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Knight_Crouch_11
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 690
+        width: 39
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9055cfa0092af9960800000000000000
+      internalID: 7610980634822726921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Knight_Crouch_12
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 532
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f47bae4f60307980800000000000000
+      internalID: -8543275238502468360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Knight_Crouch_13
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 532
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a48aa3dfcc0150c0800000000000000
+      internalID: -4588872458564893533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Knight_Crouch_14
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 532
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11958238a08acfe0800000000000000
+      internalID: -1167979693458747105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Knight_Crouch_15
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 372
+        width: 40
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65726786dca1db840800000000000000
+      internalID: 5241375010852317014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Knight_Crouch_16
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 372
+        width: 40
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db768a7f07f527b60800000000000000
+      internalID: 7742355648199288765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Knight_Crouch_17
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 372
+        width: 40
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1788881b4e5aca3f0800000000000000
+      internalID: -888152624849188751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Knight_Crouch_18
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 211
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4519818580df5c170800000000000000
+      internalID: 8198236908977426772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Knight_Crouch_19
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 211
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b52fbe0f410a6d70800000000000000
+      internalID: 9037037041333773747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Knight_Crouch_20
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 211
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1b7eee37f06d7d0800000000000000
+      internalID: -2894108719935147545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Knight_Crouch_21
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 49
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdbb057f3902973d0800000000000000
+      internalID: -3208497439643223073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Knight_Crouch_22
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 49
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642187780ba0f77f0800000000000000
+      internalID: -612759270995783098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Knight_Crouch_23
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 49
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ab75bbaf125e650800000000000000
+      internalID: 6261448217697172082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
