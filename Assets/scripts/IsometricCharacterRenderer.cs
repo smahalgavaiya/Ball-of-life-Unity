@@ -37,6 +37,7 @@ public class IsometricCharacterRenderer : MonoBehaviour
 
     public void SetDirection(Vector2 direction){
 
+       
         //use the Run states by default
         string[] directionArray = null;
         //measure the magnitude of the input.
@@ -57,17 +58,20 @@ public class IsometricCharacterRenderer : MonoBehaviour
             {
                 directionArray = runDirections;
                 animator.speed = 1;
+                animator.SetFloat("Speed",1f);
             }
 
             else
             { 
                 directionArray = walkDirections;
                 animator.speed = .1f;
+                animator.SetFloat("Speed", 0.5f);
             }
                
 
 
             lastDirection = DirectionToIndex(direction, 8);
+            animator.SetInteger("direction", lastDirection);
         }
         
         //tell the animator to play the requested state

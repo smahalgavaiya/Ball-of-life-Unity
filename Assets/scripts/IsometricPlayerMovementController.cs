@@ -25,7 +25,7 @@ public class IsometricPlayerMovementController : MonoBehaviour
             movementSpeed = 1f;
         else
             movementSpeed = 0.5f;
-
+        
         Vector2 currentPos = rbody.position;
         float horizontalInput = Input.GetAxis("Horizontal");
         float verticalInput = Input.GetAxis("Vertical");
