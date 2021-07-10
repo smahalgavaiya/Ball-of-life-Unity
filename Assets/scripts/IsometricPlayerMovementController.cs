@@ -20,6 +20,7 @@ public class IsometricPlayerMovementController : MonoBehaviour
     // Update is called once per frame
     void FixedUpdate()
     {
+       
         if (Input.GetButton("Run"))
             movementSpeed = 1f;
         else
@@ -34,5 +35,11 @@ public class IsometricPlayerMovementController : MonoBehaviour
         Vector2 newPos = currentPos + movement * Time.fixedDeltaTime;
         isoRenderer.SetDirection(movement);
         rbody.MovePosition(newPos);
+        if (Input.GetKeyDown("space"))
+        {
+            rbody.AddForce(Vector2.up * 20f);
+            isoRenderer.jump(movement);
+            Debug.Log("Jump");
+        }
     }
 }

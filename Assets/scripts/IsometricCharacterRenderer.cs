@@ -10,6 +10,13 @@ public class IsometricCharacterRenderer : MonoBehaviour
     public static readonly string[] runDirections = {"Run N", "Run NW", "Run W", "Run SW", "Run S", "Run SE", "Run E", "Run NE"};
     public static readonly string[] walkDirections = { "Walk N", "Walk NW", "Walk W", "Walk SW", "Walk S", "Walk SE", "Walk E", "Walk NE" };
     public static readonly string[] JumpDirections = { "Jump N", "Jump NW", "Jump W", "Jump SW", "Jump S", "Jump SE", "Jump E", "Jump NE" };
+    public static readonly string[] DuckDirections = { "Duck N", "Duck NW", "Duck W", "Duck SW", "Duck S", "Duck SE", "Duck E", "Duck NE" };
+    public static readonly string[] AttackDirections = { "Attack N", "Attack NW", "Attack W", "Attack SW", "Attack S", "Attack SE", "Attack E", "Attack NE" };
+    public static readonly string[] sAttackDirections = { "sAttack N", "sAttack NW", "sAttack W", "sAttack SW", "sAttack S", "sAttack SE", "sAttack E", "sAttack NE" };
+    public static readonly string[] GetHitDirections = { "GetHit N", "GetHit NW", "GetHit W", "GetHit SW", "GetHit S", "GetHit SE", "GetHit E", "GetHit NE" };
+    public static readonly string[] DeadDirections = { "Dead N", "Dead NW", "Dead W", "Dead SW", "Dead S", "Dead SE", "Dead E", "Dead NE" };
+    public static readonly string[] IdleDirections = { "Idle N", "Idle NW", "Idle W", "Idle SW", "Idle S", "Idle SE", "Idle E", "Idle NE" };
+
     Animator animator;
     int lastDirection;
 
@@ -19,12 +26,19 @@ public class IsometricCharacterRenderer : MonoBehaviour
         animator = GetComponent<Animator>();
     }
 
+    public void jump(Vector2 direction)
+    {
+        string[] directionArray = null;
+        directionArray = JumpDirections;
+        lastDirection = DirectionToIndex(direction, 8);
+        animator.Play(directionArray[lastDirection]);
+    }
+
 
     public void SetDirection(Vector2 direction){
 
         //use the Run states by default
         string[] directionArray = null;
-
         //measure the magnitude of the input.
         if (direction.magnitude < .01f)
         {
