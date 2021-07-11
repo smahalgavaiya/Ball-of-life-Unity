@@ -21,10 +21,7 @@ public class IsometricPlayerMovementController : MonoBehaviour
     void FixedUpdate()
     {
        
-        if (Input.GetButton("Run"))
-            movementSpeed = 1f;
-        else
-            movementSpeed = 0.5f;
+       
         
         Vector2 currentPos = rbody.position;
         float horizontalInput = Input.GetAxis("Horizontal");
@@ -33,8 +30,36 @@ public class IsometricPlayerMovementController : MonoBehaviour
         inputVector = Vector2.ClampMagnitude(inputVector, 1);
         Vector2 movement = inputVector * movementSpeed;
         Vector2 newPos = currentPos + movement * Time.fixedDeltaTime;
-        isoRenderer.SetDirection(movement);
         rbody.MovePosition(newPos);
+
+
+        //if (inputVector.magnitude > .01f)
+        //if (inputVector.magnitude < .55f)
+        //{
+          movementSpeed = 0.35f;
+        isoRenderer.isIdle = true;
+        //}
+        if (inputVector.magnitude > .85f)
+        // else 
+        {
+
+            if (Input.GetButton("Run"))
+            {
+                movementSpeed = 1f;
+                isoRenderer.isIdle = false;
+            }
+
+            else if (inputVector.magnitude > .01f)
+            {
+                movementSpeed = 0.5f;
+                isoRenderer.isIdle = false;
+            }
+               
+        }
+       
+        isoRenderer.setMovementSpeed(movementSpeed);
+        isoRenderer.SetDirection(movement);
+
         if (Input.GetKeyDown("space"))
         {
             rbody.AddForce(Vector2.up * 20f);
@@ -42,4 +67,9 @@ public class IsometricPlayerMovementController : MonoBehaviour
             Debug.Log("Jump");
         }
     }
+
+   /* private void Update()
+    {
+        isoRenderer.setMovementSpeed(movementSpeed);
+    }*/
 }

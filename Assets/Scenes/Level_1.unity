@@ -6172,9 +6172,25 @@ PrefabInstance:
       propertyPath: movementSpeed
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2563840053039457322, guid: 5e2a82902b6ea4c0b9b652322ffadcff, type: 3}
+      propertyPath: m_CullingMode
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3339481645408498929, guid: 5e2a82902b6ea4c0b9b652322ffadcff, type: 3}
       propertyPath: m_Name
       value: Player_Isometric_rider
+      objectReference: {fileID: 0}
+    - target: {fileID: 3339481645408498930, guid: 5e2a82902b6ea4c0b9b652322ffadcff, type: 3}
+      propertyPath: m_Mass
+      value: 0.02121245
+      objectReference: {fileID: 0}
+    - target: {fileID: 3339481645408498930, guid: 5e2a82902b6ea4c0b9b652322ffadcff, type: 3}
+      propertyPath: m_Simulated
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3339481645408498930, guid: 5e2a82902b6ea4c0b9b652322ffadcff, type: 3}
+      propertyPath: m_UseAutoMass
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3339481645408498932, guid: 5e2a82902b6ea4c0b9b652322ffadcff, type: 3}
       propertyPath: m_RootOrder

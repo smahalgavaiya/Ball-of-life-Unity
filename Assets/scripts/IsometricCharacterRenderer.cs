@@ -19,6 +19,7 @@ public class IsometricCharacterRenderer : MonoBehaviour
 
     Animator animator;
     int lastDirection;
+    public bool isIdle = true;
 
     private void Awake()
     {
@@ -34,21 +35,42 @@ public class IsometricCharacterRenderer : MonoBehaviour
         animator.Play(directionArray[lastDirection]);
     }
 
+    public void setMovementSpeed(float speed)
+    {
+        animator.SetFloat("Speed", speed);
+    }
+
 
     public void SetDirection(Vector2 direction){
+     
 
-       
         //use the Run states by default
-        string[] directionArray = null;
+        string[] directionArray = IdleDirections;
         //measure the magnitude of the input.
-        if (direction.magnitude < .01f)
+        if (isIdle)
+        // if (direction.magnitude < .01f)
         {
-            //if we are basically standing still, we'll use the Static states
-            //we won't be able to calculate a direction if the user isn't pressing one, anyway!
-            directionArray = staticDirections;
+
+            directionArray = IdleDirections;
         }
         else
         {
+
+            //{
+            //if we are basically standing still, we'll use the Static states
+            //we won't be able to calculate a direction if the user isn't pressing one, anyway!
+            //animator.SetFloat("Speed", 0f);
+
+            //}
+
+            /* if (direction.magnitude < .01f)
+             {
+                 //if we are basically standing still, we'll use the Static states
+                 //we won't be able to calculate a direction if the user isn't pressing one, anyway!
+                 directionArray = staticDirections;
+             }
+             else
+             {*/
             //we can calculate which direction we are going in
             //use DirectionToIndex to get the index of the slice from the direction vector
             //save the answer to lastDirection
@@ -58,24 +80,30 @@ public class IsometricCharacterRenderer : MonoBehaviour
             {
                 directionArray = runDirections;
                 animator.speed = 1;
-                animator.SetFloat("Speed",1f);
+                animator.SetFloat("Speed", 1f);
+            }
+            else if (isIdle)
+            {
+                directionArray = IdleDirections;
+                animator.speed = .1f;
+                animator.SetFloat("Speed", 0f);
             }
 
-            else
-            { 
+            else 
+            {
                 directionArray = walkDirections;
                 animator.speed = .1f;
                 animator.SetFloat("Speed", 0.5f);
             }
+            
                
-
-
-            lastDirection = DirectionToIndex(direction, 8);
-            animator.SetInteger("direction", lastDirection);
+            //}
         }
-        
+        lastDirection = DirectionToIndex(direction, 8);
+        animator.SetInteger("direction", lastDirection);
         //tell the animator to play the requested state
-        animator.Play(directionArray[lastDirection]);
+         animator.Play(directionArray[lastDirection]);
+
     }
 
     //helper functions

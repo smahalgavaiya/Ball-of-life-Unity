@@ -6,7 +6,7 @@ AnimationClip:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Idle  NW
+  m_Name: Idle NE
   serializedVersion: 6
   m_Legacy: 0
   m_Compressed: 0
@@ -32,18 +32,18 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    attribute: m_FlipX
+    attribute: m_FlipY
     path: 
     classID: 212
     script: {fileID: 0}
   m_PPtrCurves:
   - curve:
     - time: 0
-      value: {fileID: 641262752835839572, guid: f2f2e41e58851f041b22bab2bd3e5897, type: 3}
+      value: {fileID: -7465222276388556654, guid: f2f2e41e58851f041b22bab2bd3e5897, type: 3}
     - time: 0.083333336
-      value: {fileID: -3088789141218268244, guid: f2f2e41e58851f041b22bab2bd3e5897, type: 3}
+      value: {fileID: 3958229049209409027, guid: f2f2e41e58851f041b22bab2bd3e5897, type: 3}
     - time: 0.16666667
-      value: {fileID: 1733666456392232632, guid: f2f2e41e58851f041b22bab2bd3e5897, type: 3}
+      value: {fileID: 2549411918243759126, guid: f2f2e41e58851f041b22bab2bd3e5897, type: 3}
     attribute: m_Sprite
     path: 
     classID: 212
@@ -57,7 +57,7 @@ AnimationClip:
     genericBindings:
     - serializedVersion: 2
       path: 0
-      attribute: 555744692
+      attribute: 1444465954
       script: {fileID: 0}
       typeID: 212
       customType: 0
@@ -70,9 +70,9 @@ AnimationClip:
       customType: 23
       isPPtrCurve: 1
     pptrCurveMapping:
-    - {fileID: 641262752835839572, guid: f2f2e41e58851f041b22bab2bd3e5897, type: 3}
-    - {fileID: -3088789141218268244, guid: f2f2e41e58851f041b22bab2bd3e5897, type: 3}
-    - {fileID: 1733666456392232632, guid: f2f2e41e58851f041b22bab2bd3e5897, type: 3}
+    - {fileID: -7465222276388556654, guid: f2f2e41e58851f041b22bab2bd3e5897, type: 3}
+    - {fileID: 3958229049209409027, guid: f2f2e41e58851f041b22bab2bd3e5897, type: 3}
+    - {fileID: 2549411918243759126, guid: f2f2e41e58851f041b22bab2bd3e5897, type: 3}
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}
@@ -109,7 +109,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    attribute: m_FlipX
+    attribute: m_FlipY
     path: 
     classID: 212
     script: {fileID: 0}
