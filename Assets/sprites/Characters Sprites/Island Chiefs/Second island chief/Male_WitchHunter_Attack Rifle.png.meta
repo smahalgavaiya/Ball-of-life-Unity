@@ -1,7 +1,79 @@
 fileFormatVersion: 2
 guid: 8f1d3e4e5d586c94396f2e7e2bc5ad22
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 552161880061303451
+    second: Male_WitchHunter_Attack Rifle_0
+  - first:
+      213: -120353023220141093
+    second: Male_WitchHunter_Attack Rifle_1
+  - first:
+      213: -2640490168563817087
+    second: Male_WitchHunter_Attack Rifle_2
+  - first:
+      213: -1862697924309173386
+    second: Male_WitchHunter_Attack Rifle_3
+  - first:
+      213: -1302882263905103801
+    second: Male_WitchHunter_Attack Rifle_4
+  - first:
+      213: 3198848246797907452
+    second: Male_WitchHunter_Attack Rifle_5
+  - first:
+      213: -6913051044333528340
+    second: Male_WitchHunter_Attack Rifle_6
+  - first:
+      213: -7090548989937955988
+    second: Male_WitchHunter_Attack Rifle_7
+  - first:
+      213: 7496779922859627584
+    second: Male_WitchHunter_Attack Rifle_8
+  - first:
+      213: -3903016719852741336
+    second: Male_WitchHunter_Attack Rifle_9
+  - first:
+      213: 3628838011288431470
+    second: Male_WitchHunter_Attack Rifle_10
+  - first:
+      213: -6489491694116137865
+    second: Male_WitchHunter_Attack Rifle_11
+  - first:
+      213: -1323613670588405837
+    second: Male_WitchHunter_Attack Rifle_12
+  - first:
+      213: 7860568744917592533
+    second: Male_WitchHunter_Attack Rifle_13
+  - first:
+      213: -5763444848054366791
+    second: Male_WitchHunter_Attack Rifle_14
+  - first:
+      213: -2749786799466428620
+    second: Male_WitchHunter_Attack Rifle_15
+  - first:
+      213: -6882923887553982644
+    second: Male_WitchHunter_Attack Rifle_16
+  - first:
+      213: 7881741665510606487
+    second: Male_WitchHunter_Attack Rifle_17
+  - first:
+      213: -3135790800159224091
+    second: Male_WitchHunter_Attack Rifle_18
+  - first:
+      213: -8007741280554667803
+    second: Male_WitchHunter_Attack Rifle_19
+  - first:
+      213: -5307964700235870906
+    second: Male_WitchHunter_Attack Rifle_20
+  - first:
+      213: -8203203210644443833
+    second: Male_WitchHunter_Attack Rifle_21
+  - first:
+      213: 3991057418222224895
+    second: Male_WitchHunter_Attack Rifle_22
+  - first:
+      213: -7670448830042394003
+    second: Male_WitchHunter_Attack Rifle_23
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -41,7 +113,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -75,9 +147,525 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Male_WitchHunter_Attack Rifle_0
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1145
+        width: 40
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ad09fed4ca9a700800000000000000
+      internalID: 552161880061303451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_WitchHunter_Attack Rifle_1
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1145
+        width: 40
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd3b153209b645ef0800000000000000
+      internalID: -120353023220141093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_WitchHunter_Attack Rifle_2
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 1146
+        width: 40
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 185a7dd7e281b5bd0800000000000000
+      internalID: -2640490168563817087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_WitchHunter_Attack Rifle_3
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 991
+        width: 82
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67bb1b95b1e5626e0800000000000000
+      internalID: -1862697924309173386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_WitchHunter_Attack Rifle_4
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 991
+        width: 81
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74097c3eb7b3bede0800000000000000
+      internalID: -1302882263905103801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_WitchHunter_Attack Rifle_5
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 989
+        width: 80
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf535c04887946c20800000000000000
+      internalID: 3198848246797907452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_WitchHunter_Attack Rifle_6
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 823
+        width: 75
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea5b5cb3b8ef00a0800000000000000
+      internalID: -6913051044333528340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_WitchHunter_Attack Rifle_7
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 823
+        width: 74
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b4e30d24f499d90800000000000000
+      internalID: -7090548989937955988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_WitchHunter_Attack Rifle_8
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 823
+        width: 73
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0441455ce99e90860800000000000000
+      internalID: 7496779922859627584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_WitchHunter_Attack Rifle_9
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 662
+        width: 41
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d54cce8f2b5d9c0800000000000000
+      internalID: -3903016719852741336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_WitchHunter_Attack Rifle_10
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 662
+        width: 41
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b2842e1f83c5230800000000000000
+      internalID: 3628838011288431470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_WitchHunter_Attack Rifle_11
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 661
+        width: 41
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7741c5fdfa1b0f5a0800000000000000
+      internalID: -6489491694116137865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_WitchHunter_Attack Rifle_12
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 507
+        width: 65
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b72ab0216491ade0800000000000000
+      internalID: -1323613670588405837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_WitchHunter_Attack Rifle_13
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 507
+        width: 64
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9e95d50a9561d60800000000000000
+      internalID: 7860568744917592533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_WitchHunter_Attack Rifle_14
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 507
+        width: 64
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd0a2d52712400b0800000000000000
+      internalID: -5763444848054366791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_WitchHunter_Attack Rifle_15
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 349
+        width: 64
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 437ceb1997bc6d9d0800000000000000
+      internalID: -2749786799466428620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_WitchHunter_Attack Rifle_16
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 349
+        width: 63
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f4b4a0131fa70a0800000000000000
+      internalID: -6882923887553982644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_WitchHunter_Attack Rifle_17
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 348
+        width: 61
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 796c7281942916d60800000000000000
+      internalID: 7881741665510606487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_WitchHunter_Attack Rifle_18
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 189
+        width: 59
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee4292a1ee6b74d0800000000000000
+      internalID: -3135790800159224091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_WitchHunter_Attack Rifle_19
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 189
+        width: 58
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e0be4f6bb9ced090800000000000000
+      internalID: -8007741280554667803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_WitchHunter_Attack Rifle_20
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 189
+        width: 55
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64dc02a5a325656b0800000000000000
+      internalID: -5307964700235870906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_WitchHunter_Attack Rifle_21
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 19
+        width: 58
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74da131742e582e80800000000000000
+      internalID: -8203203210644443833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_WitchHunter_Attack Rifle_22
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 19
+        width: 58
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff5c25b8395136730800000000000000
+      internalID: 3991057418222224895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_WitchHunter_Attack Rifle_23
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 19
+        width: 57
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d623389cd671d8590800000000000000
+      internalID: -7670448830042394003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

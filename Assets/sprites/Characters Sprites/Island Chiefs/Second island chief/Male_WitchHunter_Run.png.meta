@@ -1,7 +1,199 @@
 fileFormatVersion: 2
 guid: 4419b0bf4f5482f438b1906e8303f0e6
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 5841764910926319961
+    second: Male_WitchHunter_Run_0
+  - first:
+      213: 85710846944244231
+    second: Male_WitchHunter_Run_1
+  - first:
+      213: -5525148662215055870
+    second: Male_WitchHunter_Run_2
+  - first:
+      213: -9049412102395844951
+    second: Male_WitchHunter_Run_3
+  - first:
+      213: 1976343203130282157
+    second: Male_WitchHunter_Run_4
+  - first:
+      213: -6269646550944755233
+    second: Male_WitchHunter_Run_5
+  - first:
+      213: -839183769308735604
+    second: Male_WitchHunter_Run_6
+  - first:
+      213: 2261431541562612359
+    second: Male_WitchHunter_Run_7
+  - first:
+      213: 8657019283511921528
+    second: Male_WitchHunter_Run_8
+  - first:
+      213: 3202709018651727704
+    second: Male_WitchHunter_Run_9
+  - first:
+      213: 6551767588424943100
+    second: Male_WitchHunter_Run_10
+  - first:
+      213: 8652862339187283379
+    second: Male_WitchHunter_Run_11
+  - first:
+      213: -5210418733398691774
+    second: Male_WitchHunter_Run_12
+  - first:
+      213: -3898397071323830262
+    second: Male_WitchHunter_Run_13
+  - first:
+      213: -2481408040823709897
+    second: Male_WitchHunter_Run_14
+  - first:
+      213: 674677461347892498
+    second: Male_WitchHunter_Run_15
+  - first:
+      213: 5749003098749543844
+    second: Male_WitchHunter_Run_16
+  - first:
+      213: 1189146416747534582
+    second: Male_WitchHunter_Run_17
+  - first:
+      213: -4693711101245546906
+    second: Male_WitchHunter_Run_18
+  - first:
+      213: -7692390951890234459
+    second: Male_WitchHunter_Run_19
+  - first:
+      213: 876343517703060644
+    second: Male_WitchHunter_Run_20
+  - first:
+      213: -7488267914763261084
+    second: Male_WitchHunter_Run_21
+  - first:
+      213: 5873972692682352870
+    second: Male_WitchHunter_Run_22
+  - first:
+      213: 8878137722394329955
+    second: Male_WitchHunter_Run_23
+  - first:
+      213: 8434887606058975520
+    second: Male_WitchHunter_Run_24
+  - first:
+      213: 8141440326719439366
+    second: Male_WitchHunter_Run_25
+  - first:
+      213: -1432000867126554277
+    second: Male_WitchHunter_Run_26
+  - first:
+      213: 1243846421784558879
+    second: Male_WitchHunter_Run_27
+  - first:
+      213: -1206563102280929171
+    second: Male_WitchHunter_Run_28
+  - first:
+      213: 7674931344034178234
+    second: Male_WitchHunter_Run_29
+  - first:
+      213: -6347435527755289159
+    second: Male_WitchHunter_Run_30
+  - first:
+      213: -8688165660608157928
+    second: Male_WitchHunter_Run_31
+  - first:
+      213: -267539870158187287
+    second: Male_WitchHunter_Run_32
+  - first:
+      213: -5388774663477956938
+    second: Male_WitchHunter_Run_33
+  - first:
+      213: 4943375026993845038
+    second: Male_WitchHunter_Run_34
+  - first:
+      213: -3475456471520442238
+    second: Male_WitchHunter_Run_35
+  - first:
+      213: -1118285491733739594
+    second: Male_WitchHunter_Run_36
+  - first:
+      213: -4348498105380697979
+    second: Male_WitchHunter_Run_37
+  - first:
+      213: -805063603081553996
+    second: Male_WitchHunter_Run_38
+  - first:
+      213: 324688674110417664
+    second: Male_WitchHunter_Run_39
+  - first:
+      213: -6925806648944245938
+    second: Male_WitchHunter_Run_40
+  - first:
+      213: -8350045361724352024
+    second: Male_WitchHunter_Run_41
+  - first:
+      213: -3162214313875090468
+    second: Male_WitchHunter_Run_42
+  - first:
+      213: 13528053158994562
+    second: Male_WitchHunter_Run_43
+  - first:
+      213: 4651260630096813136
+    second: Male_WitchHunter_Run_44
+  - first:
+      213: 2046018726210518697
+    second: Male_WitchHunter_Run_45
+  - first:
+      213: 1152774520698424606
+    second: Male_WitchHunter_Run_46
+  - first:
+      213: -3383667856107937528
+    second: Male_WitchHunter_Run_47
+  - first:
+      213: -6875406604842041519
+    second: Male_WitchHunter_Run_48
+  - first:
+      213: -1567945236985244455
+    second: Male_WitchHunter_Run_49
+  - first:
+      213: 2774350680245424650
+    second: Male_WitchHunter_Run_50
+  - first:
+      213: 8914582924373287305
+    second: Male_WitchHunter_Run_51
+  - first:
+      213: -6844847573814327469
+    second: Male_WitchHunter_Run_52
+  - first:
+      213: 3627863833180472372
+    second: Male_WitchHunter_Run_53
+  - first:
+      213: -4261822238068748698
+    second: Male_WitchHunter_Run_54
+  - first:
+      213: -3675598187076023124
+    second: Male_WitchHunter_Run_55
+  - first:
+      213: -5566317446466997114
+    second: Male_WitchHunter_Run_56
+  - first:
+      213: -745910285974878737
+    second: Male_WitchHunter_Run_57
+  - first:
+      213: 5276123127432522945
+    second: Male_WitchHunter_Run_58
+  - first:
+      213: -8422507506278794433
+    second: Male_WitchHunter_Run_59
+  - first:
+      213: -4292361092304989295
+    second: Male_WitchHunter_Run_60
+  - first:
+      213: 7443614433715421383
+    second: Male_WitchHunter_Run_61
+  - first:
+      213: -2080447160680270843
+    second: Male_WitchHunter_Run_62
+  - first:
+      213: -3048510020513725766
+    second: Male_WitchHunter_Run_63
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -41,7 +233,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -75,9 +267,1365 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Male_WitchHunter_Run_0
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1143
+        width: 43
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951da194c3e121150800000000000000
+      internalID: 5841764910926319961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_WitchHunter_Run_1
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1155
+        width: 52
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7027289af81803100800000000000000
+      internalID: 85710846944244231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_WitchHunter_Run_2
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1150
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2066271b09ab253b0800000000000000
+      internalID: -5525148662215055870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_WitchHunter_Run_3
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1147
+        width: 59
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6239283a70a6280800000000000000
+      internalID: -9049412102395844951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_WitchHunter_Run_4
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1139
+        width: 64
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da096d01ca16d6b10800000000000000
+      internalID: 1976343203130282157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_WitchHunter_Run_5
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1146
+        width: 57
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd15faf0eadbdf8a0800000000000000
+      internalID: -6269646550944755233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_WitchHunter_Run_6
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 1148
+        width: 53
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c875419dece9a54f0800000000000000
+      internalID: -839183769308735604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_WitchHunter_Run_7
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 1149
+        width: 49
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a14b66108326f10800000000000000
+      internalID: 2261431541562612359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_WitchHunter_Run_8
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 997
+        width: 65
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b4f67eb29e32870800000000000000
+      internalID: 8657019283511921528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_WitchHunter_Run_9
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 998
+        width: 85
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8571daf32ee427c20800000000000000
+      internalID: 3202709018651727704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_WitchHunter_Run_10
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 996
+        width: 79
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf58cfea8ed8cea50800000000000000
+      internalID: 6551767588424943100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_WitchHunter_Run_11
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 996
+        width: 78
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b51d91e374251870800000000000000
+      internalID: 8652862339187283379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_WitchHunter_Run_12
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 995
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240fab894cfd0b7b0800000000000000
+      internalID: -5210418733398691774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_WitchHunter_Run_13
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 994
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08e15aa48c16e9c0800000000000000
+      internalID: -3898397071323830262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_WitchHunter_Run_14
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 992
+        width: 60
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f97efa884409dd0800000000000000
+      internalID: -2481408040823709897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_WitchHunter_Run_15
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 996
+        width: 74
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d7a95939fec5900800000000000000
+      internalID: 674677461347892498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_WitchHunter_Run_16
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 831
+        width: 64
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a52699dbdf88cf40800000000000000
+      internalID: 5749003098749543844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_WitchHunter_Run_17
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 833
+        width: 78
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f85a2c9d52b08010800000000000000
+      internalID: 1189146416747534582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_WitchHunter_Run_18
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 836
+        width: 86
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e93fb2f969cdeb0800000000000000
+      internalID: -4693711101245546906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_WitchHunter_Run_19
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 835
+        width: 84
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3572f6f232f3590800000000000000
+      internalID: -7692390951890234459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_WitchHunter_Run_20
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 835
+        width: 85
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac38e949c5692c00800000000000000
+      internalID: 876343517703060644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_WitchHunter_Run_21
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 838
+        width: 81
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ba49d8104541890800000000000000
+      internalID: -7488267914763261084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_WitchHunter_Run_22
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 835
+        width: 55
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e82da7da0b848150800000000000000
+      internalID: 5873972692682352870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_WitchHunter_Run_23
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 835
+        width: 74
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3634f4a583b753b70800000000000000
+      internalID: 8878137722394329955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_WitchHunter_Run_24
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 655
+        width: 44
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0218d77769dbe0570800000000000000
+      internalID: 8434887606058975520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_WitchHunter_Run_25
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 664
+        width: 50
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602072a87d43cf070800000000000000
+      internalID: 8141440326719439366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_WitchHunter_Run_26
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 655
+        width: 49
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51ded46cc2802ce0800000000000000
+      internalID: -1432000867126554277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_WitchHunter_Run_27
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 655
+        width: 60
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1dfb9dfab7034110800000000000000
+      internalID: 1243846421784558879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_WitchHunter_Run_28
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 655
+        width: 66
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60b379404d614fe0800000000000000
+      internalID: -1206563102280929171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_WitchHunter_Run_29
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 658
+        width: 55
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab42ba4d465d28a60800000000000000
+      internalID: 7674931344034178234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_WitchHunter_Run_30
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 668
+        width: 42
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bda375840169e7a0800000000000000
+      internalID: -6347435527755289159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_WitchHunter_Run_31
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 656
+        width: 43
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81724b11d5f6d6780800000000000000
+      internalID: -8688165660608157928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_WitchHunter_Run_32
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 509
+        width: 78
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e497f3d7e1894cf0800000000000000
+      internalID: -267539870158187287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_WitchHunter_Run_33
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 515
+        width: 64
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be65c89ef93735b0800000000000000
+      internalID: -5388774663477956938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_WitchHunter_Run_34
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 513
+        width: 52
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23518b55656a9440800000000000000
+      internalID: 4943375026993845038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_WitchHunter_Run_35
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 510
+        width: 57
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28801beb0c2b4cfc0800000000000000
+      internalID: -3475456471520442238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_WitchHunter_Run_36
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 503
+        width: 58
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b7ccbb254d0b70f0800000000000000
+      internalID: -1118285491733739594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_WitchHunter_Run_37
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 508
+        width: 56
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5880352330807a3c0800000000000000
+      internalID: -4348498105380697979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_WitchHunter_Run_38
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 516
+        width: 58
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b75abc1be6d3d4f0800000000000000
+      internalID: -805063603081553996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_WitchHunter_Run_39
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 514
+        width: 71
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ba1faf0a6818400800000000000000
+      internalID: 324688674110417664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_WitchHunter_Run_40
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 341
+        width: 48
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43c3aa1c8792ef90800000000000000
+      internalID: -6925806648944245938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_WitchHunter_Run_41
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 348
+        width: 46
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e99504ebfdae1c80800000000000000
+      internalID: -8350045361724352024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_WitchHunter_Run_42
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 342
+        width: 80
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3d1dde5de8d14d0800000000000000
+      internalID: -3162214313875090468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_WitchHunter_Run_43
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 342
+        width: 86
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2826b0351bf003000800000000000000
+      internalID: 13528053158994562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_WitchHunter_Run_44
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 345
+        width: 83
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c1eae46e89c8040800000000000000
+      internalID: 4651260630096813136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_WitchHunter_Run_45
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 350
+        width: 83
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae3393f03be46c10800000000000000
+      internalID: 2046018726210518697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_WitchHunter_Run_46
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 347
+        width: 47
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1dc954a15a7fff00800000000000000
+      internalID: 1152774520698424606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_WitchHunter_Run_47
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 339
+        width: 56
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80167c6230cca01d0800000000000000
+      internalID: -3383667856107937528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_WitchHunter_Run_48
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 185
+        width: 51
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ff300de16a590a0800000000000000
+      internalID: -6875406604842041519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_WitchHunter_Run_49
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 193
+        width: 60
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d49a324d1a8d3ae0800000000000000
+      internalID: -1567945236985244455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_WitchHunter_Run_50
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 194
+        width: 83
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a02546a9e39708620800000000000000
+      internalID: 2774350680245424650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_WitchHunter_Run_51
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 190
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 981680030f5f6bb70800000000000000
+      internalID: 8914582924373287305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_WitchHunter_Run_52
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 186
+        width: 90
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3574a1da5673201a0800000000000000
+      internalID: -6844847573814327469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_WitchHunter_Run_53
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 190
+        width: 77
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 434853e5fe2c85230800000000000000
+      internalID: 3627863833180472372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_WitchHunter_Run_54
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 188
+        width: 49
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e4d0c2147fad4c0800000000000000
+      internalID: -4261822238068748698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_WitchHunter_Run_55
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 191
+        width: 55
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac834a4ce6adfcc0800000000000000
+      internalID: -3675598187076023124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_WitchHunter_Run_56
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 29
+        width: 67
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684764826c770c2b0800000000000000
+      internalID: -5566317446466997114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_WitchHunter_Run_57
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 31
+        width: 59
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe548220c8ef5a5f0800000000000000
+      internalID: -745910285974878737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_WitchHunter_Run_58
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 22
+        width: 58
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cca6d1c70e883940800000000000000
+      internalID: 5276123127432522945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_WitchHunter_Run_59
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 19
+        width: 64
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3bf0322c0e3d1b80800000000000000
+      internalID: -8422507506278794433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_WitchHunter_Run_60
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 19
+        width: 58
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193147514587e64c0800000000000000
+      internalID: -4292361092304989295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_WitchHunter_Run_61
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 24
+        width: 60
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c00496b3e70d4760800000000000000
+      internalID: 7443614433715421383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_WitchHunter_Run_62
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 31
+        width: 47
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 504bead7454c023e0800000000000000
+      internalID: -2080447160680270843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_WitchHunter_Run_63
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 26
+        width: 64
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab28f0db94481b5d0800000000000000
+      internalID: -3048510020513725766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

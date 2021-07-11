@@ -1,7 +1,199 @@
 fileFormatVersion: 2
 guid: 7d3f094cfaf4ba2468cd4ac595c890d5
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 1307209798912507390
+    second: Male_Archer_Walk_0
+  - first:
+      213: -6574370240697636573
+    second: Male_Archer_Walk_1
+  - first:
+      213: 1225370814237068568
+    second: Male_Archer_Walk_2
+  - first:
+      213: 4565239299167557241
+    second: Male_Archer_Walk_3
+  - first:
+      213: -4752775385121514008
+    second: Male_Archer_Walk_4
+  - first:
+      213: -8755374239898958809
+    second: Male_Archer_Walk_5
+  - first:
+      213: 8128343027328060914
+    second: Male_Archer_Walk_6
+  - first:
+      213: 257356317454683119
+    second: Male_Archer_Walk_7
+  - first:
+      213: -975707794528657182
+    second: Male_Archer_Walk_8
+  - first:
+      213: -2645735888214347649
+    second: Male_Archer_Walk_9
+  - first:
+      213: 3698376263818563758
+    second: Male_Archer_Walk_10
+  - first:
+      213: 5781135148951966161
+    second: Male_Archer_Walk_11
+  - first:
+      213: -2238714791279325714
+    second: Male_Archer_Walk_12
+  - first:
+      213: -6950647390188594605
+    second: Male_Archer_Walk_13
+  - first:
+      213: -2536096105604208817
+    second: Male_Archer_Walk_14
+  - first:
+      213: -1816429837242364223
+    second: Male_Archer_Walk_15
+  - first:
+      213: 5417739810561429059
+    second: Male_Archer_Walk_16
+  - first:
+      213: -4058231482570104065
+    second: Male_Archer_Walk_17
+  - first:
+      213: 7654141309136300502
+    second: Male_Archer_Walk_18
+  - first:
+      213: -8619743462026431807
+    second: Male_Archer_Walk_19
+  - first:
+      213: -1253993389444313182
+    second: Male_Archer_Walk_20
+  - first:
+      213: -8697392949709965356
+    second: Male_Archer_Walk_21
+  - first:
+      213: 5153901583916240910
+    second: Male_Archer_Walk_22
+  - first:
+      213: -3622250362798695529
+    second: Male_Archer_Walk_23
+  - first:
+      213: 6743309453256421258
+    second: Male_Archer_Walk_24
+  - first:
+      213: 8847131497485311456
+    second: Male_Archer_Walk_25
+  - first:
+      213: 8099673943875984932
+    second: Male_Archer_Walk_26
+  - first:
+      213: -9125038167398612829
+    second: Male_Archer_Walk_27
+  - first:
+      213: 6746251375703741397
+    second: Male_Archer_Walk_28
+  - first:
+      213: 7317431610410431323
+    second: Male_Archer_Walk_29
+  - first:
+      213: 50572620443398446
+    second: Male_Archer_Walk_30
+  - first:
+      213: -4054715874044640038
+    second: Male_Archer_Walk_31
+  - first:
+      213: -7582596147050290685
+    second: Male_Archer_Walk_32
+  - first:
+      213: -4611428569221829475
+    second: Male_Archer_Walk_33
+  - first:
+      213: -2410341553630691871
+    second: Male_Archer_Walk_34
+  - first:
+      213: -3528932467413786746
+    second: Male_Archer_Walk_35
+  - first:
+      213: -7656772790195109486
+    second: Male_Archer_Walk_36
+  - first:
+      213: 3218864063997085276
+    second: Male_Archer_Walk_37
+  - first:
+      213: 3821005733705298916
+    second: Male_Archer_Walk_38
+  - first:
+      213: 6490819762669460995
+    second: Male_Archer_Walk_39
+  - first:
+      213: 4082515598512443395
+    second: Male_Archer_Walk_40
+  - first:
+      213: 747259341544065873
+    second: Male_Archer_Walk_41
+  - first:
+      213: 8919124354140495796
+    second: Male_Archer_Walk_42
+  - first:
+      213: -1439881744350270351
+    second: Male_Archer_Walk_43
+  - first:
+      213: -165893035273097251
+    second: Male_Archer_Walk_44
+  - first:
+      213: -9125480768200144521
+    second: Male_Archer_Walk_45
+  - first:
+      213: 5823703175226654476
+    second: Male_Archer_Walk_46
+  - first:
+      213: 3729545732981633985
+    second: Male_Archer_Walk_47
+  - first:
+      213: 7368398929464522697
+    second: Male_Archer_Walk_48
+  - first:
+      213: -6199278864578829358
+    second: Male_Archer_Walk_49
+  - first:
+      213: 7609675051778908653
+    second: Male_Archer_Walk_50
+  - first:
+      213: 4660037068765085863
+    second: Male_Archer_Walk_51
+  - first:
+      213: 804271122589611276
+    second: Male_Archer_Walk_52
+  - first:
+      213: -4277531288599586677
+    second: Male_Archer_Walk_53
+  - first:
+      213: -5717983113406407880
+    second: Male_Archer_Walk_54
+  - first:
+      213: 465665049764515738
+    second: Male_Archer_Walk_55
+  - first:
+      213: 1329988243725460795
+    second: Male_Archer_Walk_56
+  - first:
+      213: 7270954097165803713
+    second: Male_Archer_Walk_57
+  - first:
+      213: 6128327556405270272
+    second: Male_Archer_Walk_58
+  - first:
+      213: 5194638473106493214
+    second: Male_Archer_Walk_59
+  - first:
+      213: 3999319550338348403
+    second: Male_Archer_Walk_60
+  - first:
+      213: 769233865038917666
+    second: Male_Archer_Walk_61
+  - first:
+      213: -4996751162775634283
+    second: Male_Archer_Walk_62
+  - first:
+      213: 3651060780411154795
+    second: Male_Archer_Walk_63
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -41,7 +233,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -75,9 +267,1365 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Male_Archer_Walk_0
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1142
+        width: 48
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efdf61fd264242210800000000000000
+      internalID: 1307209798912507390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Walk_1
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1145
+        width: 46
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329615d391523c4a0800000000000000
+      internalID: -6574370240697636573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Walk_2
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1152
+        width: 47
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d4bb46344610110800000000000000
+      internalID: 1225370814237068568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Walk_3
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1141
+        width: 46
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976198574fcfa5f30800000000000000
+      internalID: 4565239299167557241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Walk_4
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1141
+        width: 44
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed9c90f7ffba0eb0800000000000000
+      internalID: -4752775385121514008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Walk_5
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 1149
+        width: 55
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724873b4489ae7680800000000000000
+      internalID: -8755374239898958809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Walk_6
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 1151
+        width: 45
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd8964eaecadc070800000000000000
+      internalID: 8128343027328060914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Walk_7
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 1140
+        width: 54
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: febc69a0530529300800000000000000
+      internalID: 257356317454683119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Walk_8
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 995
+        width: 62
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e02a8e2ee69572f0800000000000000
+      internalID: -975707794528657182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Walk_9
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 994
+        width: 62
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f703b753a35784bd0800000000000000
+      internalID: -2645735888214347649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Walk_10
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 994
+        width: 59
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea054aafd95435330800000000000000
+      internalID: 3698376263818563758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Walk_11
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 991
+        width: 59
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d19ec7c9c7ba3050800000000000000
+      internalID: 5781135148951966161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Walk_12
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 991
+        width: 63
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed026032cc7ee0e0800000000000000
+      internalID: -2238714791279325714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Walk_13
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 991
+        width: 54
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a10d456075a8f90800000000000000
+      internalID: -6950647390188594605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Walk_14
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 993
+        width: 43
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47a53d570afdccd0800000000000000
+      internalID: -2536096105604208817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Walk_15
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 994
+        width: 53
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce8fb7dfaebac6e0800000000000000
+      internalID: -1816429837242364223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Walk_16
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 832
+        width: 55
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e810e37adaf2b40800000000000000
+      internalID: 5417739810561429059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Walk_17
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 831
+        width: 71
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff22a11d7f34ea7c0800000000000000
+      internalID: -4058231482570104065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Walk_18
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 830
+        width: 68
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d966bf97f8f83a60800000000000000
+      internalID: 7654141309136300502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Walk_19
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 832
+        width: 59
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c23bea9df4806880800000000000000
+      internalID: -8619743462026431807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Walk_20
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 833
+        width: 69
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2afcb7ff7abe89ee0800000000000000
+      internalID: -1253993389444313182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Walk_21
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 834
+        width: 56
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7fc886137ac4780800000000000000
+      internalID: -8697392949709965356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Walk_22
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 830
+        width: 45
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0096ac1f26568740800000000000000
+      internalID: 5153901583916240910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Walk_23
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 831
+        width: 53
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b9add8c7e2bbdc0800000000000000
+      internalID: -3622250362798695529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Walk_24
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 658
+        width: 44
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8fe1eb583c059d50800000000000000
+      internalID: 6743309453256421258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Walk_25
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 660
+        width: 42
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed18cc093357ca70800000000000000
+      internalID: 8847131497485311456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Walk_26
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 665
+        width: 42
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e173db982d76070800000000000000
+      internalID: 8099673943875984932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Walk_27
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 667
+        width: 42
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0035e122a5d5180800000000000000
+      internalID: -9125038167398612829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Walk_28
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 660
+        width: 44
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3df4e02ef7f9d50800000000000000
+      internalID: 6746251375703741397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Walk_29
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 662
+        width: 45
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b537abeb74dbc8560800000000000000
+      internalID: 7317431610410431323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Walk_30
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 668
+        width: 45
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e21b3e4c78ba3b000800000000000000
+      internalID: 50572620443398446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Walk_31
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 662
+        width: 47
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad48e663561cab7c0800000000000000
+      internalID: -4054715874044640038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Walk_32
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 508
+        width: 56
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30262d38af435c690800000000000000
+      internalID: -7582596147050290685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Walk_33
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 511
+        width: 64
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ce170162ae000c0800000000000000
+      internalID: -4611428569221829475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Walk_34
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 516
+        width: 66
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1edba74a02fbc8ed0800000000000000
+      internalID: -2410341553630691871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Walk_35
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 502
+        width: 67
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f55733e96b60fc0800000000000000
+      internalID: -3528932467413786746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Walk_36
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 502
+        width: 65
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2914b82f6bdadb590800000000000000
+      internalID: -7656772790195109486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Walk_37
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 509
+        width: 55
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5601dadfc3bbac20800000000000000
+      internalID: 3218864063997085276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Walk_38
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 514
+        width: 54
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e33c326870f60530800000000000000
+      internalID: 3821005733705298916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Walk_39
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 509
+        width: 57
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e9ffe2f26041a50800000000000000
+      internalID: 6490819762669460995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Walk_40
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 344
+        width: 44
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30053578e4208a830800000000000000
+      internalID: 4082515598512443395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Walk_41
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 344
+        width: 42
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b83d7796cce5a00800000000000000
+      internalID: 747259341544065873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Walk_42
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 349
+        width: 44
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf5414385817cb70800000000000000
+      internalID: 8919124354140495796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Walk_43
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 350
+        width: 45
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17cae6dae23840ce0800000000000000
+      internalID: -1439881744350270351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Walk_44
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 345
+        width: 43
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddfe5d1d921a2bdf0800000000000000
+      internalID: -165893035273097251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Walk_45
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 346
+        width: 42
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77985c61797cb5180800000000000000
+      internalID: -9125480768200144521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Walk_46
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 350
+        width: 47
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ff2bcbe23f1d050800000000000000
+      internalID: 5823703175226654476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Walk_47
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 347
+        width: 48
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c3b1fb851202c330800000000000000
+      internalID: 3729545732981633985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Walk_48
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 184
+        width: 47
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7f91279cfc14660800000000000000
+      internalID: 7368398929464522697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Walk_49
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 185
+        width: 47
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d32135c7bcb7f9a0800000000000000
+      internalID: -6199278864578829358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Walk_50
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 190
+        width: 45
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de12f6d442ffa9960800000000000000
+      internalID: 7609675051778908653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Walk_51
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 189
+        width: 48
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a045eb2607cba040800000000000000
+      internalID: 4660037068765085863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Walk_52
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 189
+        width: 44
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c05fe052358592b00800000000000000
+      internalID: 804271122589611276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Walk_53
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 193
+        width: 45
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b881763d4f723a4c0800000000000000
+      internalID: -4277531288599586677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Walk_54
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 189
+        width: 48
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b9abd47a4a5a0b0800000000000000
+      internalID: -5717983113406407880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Walk_55
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 181
+        width: 49
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f478345ef567600800000000000000
+      internalID: 465665049764515738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Walk_56
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 23
+        width: 52
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b35a3b6d241157210800000000000000
+      internalID: 1329988243725460795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Walk_57
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 25
+        width: 57
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c02dbb6a3e97e460800000000000000
+      internalID: 7270954097165803713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Walk_58
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 29
+        width: 52
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00716ca71713c0550800000000000000
+      internalID: 6128327556405270272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Walk_59
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 29
+        width: 49
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f071e3b20171840800000000000000
+      internalID: 5194638473106493214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Walk_60
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 25
+        width: 47
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 375313511ff608730800000000000000
+      internalID: 3999319550338348403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Walk_61
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 26
+        width: 55
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22078daef1edcaa00800000000000000
+      internalID: 769233865038917666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Walk_62
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 31
+        width: 42
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59efcb79a49f7aab0800000000000000
+      internalID: -4996751162775634283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Walk_63
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 26
+        width: 54
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6174c58f6c2ba230800000000000000
+      internalID: 3651060780411154795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

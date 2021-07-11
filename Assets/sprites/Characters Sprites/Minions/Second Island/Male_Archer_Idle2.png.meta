@@ -1,7 +1,79 @@
 fileFormatVersion: 2
 guid: 794aa3c7ecc17f34095e34bf8c30f5b5
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 631255927260196074
+    second: Male_Archer_Idle2_0
+  - first:
+      213: -3218292054040949375
+    second: Male_Archer_Idle2_1
+  - first:
+      213: 2668472585849553052
+    second: Male_Archer_Idle2_2
+  - first:
+      213: 8161080727764504023
+    second: Male_Archer_Idle2_3
+  - first:
+      213: -2599414213544082051
+    second: Male_Archer_Idle2_4
+  - first:
+      213: 6116430551931351531
+    second: Male_Archer_Idle2_5
+  - first:
+      213: -3267608916324931045
+    second: Male_Archer_Idle2_6
+  - first:
+      213: -1211548112239272457
+    second: Male_Archer_Idle2_7
+  - first:
+      213: 7569084677863394647
+    second: Male_Archer_Idle2_8
+  - first:
+      213: -6856300069995706414
+    second: Male_Archer_Idle2_9
+  - first:
+      213: 4819320162746807022
+    second: Male_Archer_Idle2_10
+  - first:
+      213: -8877923038885241393
+    second: Male_Archer_Idle2_11
+  - first:
+      213: -2729192251621128379
+    second: Male_Archer_Idle2_12
+  - first:
+      213: 5417662829063566044
+    second: Male_Archer_Idle2_13
+  - first:
+      213: 3794112500620849296
+    second: Male_Archer_Idle2_14
+  - first:
+      213: 2515245745181291465
+    second: Male_Archer_Idle2_15
+  - first:
+      213: -1461555783327401689
+    second: Male_Archer_Idle2_16
+  - first:
+      213: 563880812167137572
+    second: Male_Archer_Idle2_17
+  - first:
+      213: -9184989606801845103
+    second: Male_Archer_Idle2_18
+  - first:
+      213: 2501534457185228925
+    second: Male_Archer_Idle2_19
+  - first:
+      213: -4780035902478027671
+    second: Male_Archer_Idle2_20
+  - first:
+      213: -4026067984987969542
+    second: Male_Archer_Idle2_21
+  - first:
+      213: -2257496788424787718
+    second: Male_Archer_Idle2_22
+  - first:
+      213: -5875652949934304169
+    second: Male_Archer_Idle2_23
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -41,7 +113,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -75,9 +147,525 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Male_Archer_Idle2_0
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1152
+        width: 46
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec24badbeba2c800800000000000000
+      internalID: 631255927260196074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Idle2_1
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1152
+        width: 46
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d4d679d645653d0800000000000000
+      internalID: -3218292054040949375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Idle2_2
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1152
+        width: 45
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c904e6cbda1580520800000000000000
+      internalID: 2668472585849553052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Idle2_3
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 981
+        width: 49
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd80b1ceabf14170800000000000000
+      internalID: 8161080727764504023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Idle2_4
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 981
+        width: 50
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d758a998b860debd0800000000000000
+      internalID: -2599414213544082051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Idle2_5
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 981
+        width: 49
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1f6354e2de1e450800000000000000
+      internalID: 6116430551931351531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Idle2_6
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 831
+        width: 44
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1aad8dc00f17a2d0800000000000000
+      internalID: -3267608916324931045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Idle2_7
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 831
+        width: 44
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fddea53967bf2fe0800000000000000
+      internalID: -1211548112239272457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Idle2_8
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 831
+        width: 44
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d46ea696aca0960800000000000000
+      internalID: 7569084677863394647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Idle2_9
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 671
+        width: 49
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d78b6e996789d0a0800000000000000
+      internalID: -6856300069995706414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Idle2_10
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 671
+        width: 48
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee2b667772aa1e240800000000000000
+      internalID: 4819320162746807022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Idle2_11
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 671
+        width: 48
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd1dfb88084bc480800000000000000
+      internalID: -8877923038885241393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Idle2_12
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 504
+        width: 48
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547cf566b16ff1ad0800000000000000
+      internalID: -2729192251621128379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Idle2_13
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 504
+        width: 48
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd2fb2793a76f2b40800000000000000
+      internalID: 5417662829063566044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Idle2_14
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 504
+        width: 48
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090ff5d973567a430800000000000000
+      internalID: 3794112500620849296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Idle2_15
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 345
+        width: 44
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3f75ccda2f7e220800000000000000
+      internalID: 2515245745181291465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Idle2_16
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 345
+        width: 43
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7293a5b32c287bbe0800000000000000
+      internalID: -1461555783327401689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Idle2_17
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 345
+        width: 44
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42981e07c9e43d700800000000000000
+      internalID: 563880812167137572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Idle2_18
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 191
+        width: 43
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194dbe4ed9c588080800000000000000
+      internalID: -9184989606801845103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Idle2_19
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 191
+        width: 43
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d78dce9c55c37b220800000000000000
+      internalID: 2501534457185228925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Idle2_20
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 191
+        width: 44
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 964fe232ca6e9adb0800000000000000
+      internalID: -4780035902478027671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Idle2_21
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 31
+        width: 43
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af72839af788028c0800000000000000
+      internalID: -4026067984987969542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Idle2_22
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 31
+        width: 43
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af8fa54b1a2cba0e0800000000000000
+      internalID: -2257496788424787718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Idle2_23
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 32
+        width: 43
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75490b7c5cc757ea0800000000000000
+      internalID: -5875652949934304169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

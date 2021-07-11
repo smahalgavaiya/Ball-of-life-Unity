@@ -1,7 +1,79 @@
 fileFormatVersion: 2
 guid: 6acc6ef51fd3fae459b1724c7aa6c03f
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -317245476285205390
+    second: Male_Archer_Attack Two Hand Swing_0
+  - first:
+      213: -4635481277418485303
+    second: Male_Archer_Attack Two Hand Swing_1
+  - first:
+      213: -7294414356168083860
+    second: Male_Archer_Attack Two Hand Swing_2
+  - first:
+      213: -4972645055044754589
+    second: Male_Archer_Attack Two Hand Swing_3
+  - first:
+      213: 1241803986612750213
+    second: Male_Archer_Attack Two Hand Swing_4
+  - first:
+      213: -5851299285875136583
+    second: Male_Archer_Attack Two Hand Swing_5
+  - first:
+      213: 8471381995696138109
+    second: Male_Archer_Attack Two Hand Swing_6
+  - first:
+      213: -2244680414678968634
+    second: Male_Archer_Attack Two Hand Swing_7
+  - first:
+      213: 7055792301858935799
+    second: Male_Archer_Attack Two Hand Swing_8
+  - first:
+      213: 4414034479800363053
+    second: Male_Archer_Attack Two Hand Swing_9
+  - first:
+      213: 6784150715406201684
+    second: Male_Archer_Attack Two Hand Swing_10
+  - first:
+      213: 2333579074596448603
+    second: Male_Archer_Attack Two Hand Swing_11
+  - first:
+      213: 6451621193979470672
+    second: Male_Archer_Attack Two Hand Swing_12
+  - first:
+      213: 4200266072338233815
+    second: Male_Archer_Attack Two Hand Swing_13
+  - first:
+      213: 4667418600724429677
+    second: Male_Archer_Attack Two Hand Swing_14
+  - first:
+      213: 1871082099338538885
+    second: Male_Archer_Attack Two Hand Swing_15
+  - first:
+      213: 5804366702584042595
+    second: Male_Archer_Attack Two Hand Swing_16
+  - first:
+      213: -4153732648351569401
+    second: Male_Archer_Attack Two Hand Swing_17
+  - first:
+      213: 6626581348469142716
+    second: Male_Archer_Attack Two Hand Swing_18
+  - first:
+      213: 7590995209451726167
+    second: Male_Archer_Attack Two Hand Swing_19
+  - first:
+      213: -2743174296497739987
+    second: Male_Archer_Attack Two Hand Swing_20
+  - first:
+      213: 5880503283617806743
+    second: Male_Archer_Attack Two Hand Swing_21
+  - first:
+      213: 2238461039021359759
+    second: Male_Archer_Attack Two Hand Swing_22
+  - first:
+      213: 77028405022819414
+    second: Male_Archer_Attack Two Hand Swing_23
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -41,7 +113,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -75,9 +147,525 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Male_Archer_Attack Two Hand Swing_0
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1138
+        width: 39
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 274bb6f8beae89bf0800000000000000
+      internalID: -317245476285205390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Attack Two Hand Swing_1
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1137
+        width: 42
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c94f7886567bafb0800000000000000
+      internalID: -4635481277418485303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Attack Two Hand Swing_2
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1135
+        width: 36
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6677106ac805ca90800000000000000
+      internalID: -7294414356168083860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Attack Two Hand Swing_3
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 991
+        width: 68
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36364fb2bad9dfab0800000000000000
+      internalID: -4972645055044754589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Attack Two Hand Swing_4
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 991
+        width: 61
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58787be7526cb3110800000000000000
+      internalID: 1241803986612750213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Attack Two Hand Swing_5
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 990
+        width: 104
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b76aee0d420ccea0800000000000000
+      internalID: -5851299285875136583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Attack Two Hand Swing_6
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 828
+        width: 68
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d77ab12ba05609570800000000000000
+      internalID: 8471381995696138109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Attack Two Hand Swing_7
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 828
+        width: 59
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c698c04e0b49d0e0800000000000000
+      internalID: -2244680414678968634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Attack Two Hand Swing_8
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 828
+        width: 110
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3dc3127b53be160800000000000000
+      internalID: 7055792301858935799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Attack Two Hand Swing_9
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 658
+        width: 40
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28a3da09fcc14d30800000000000000
+      internalID: 4414034479800363053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Attack Two Hand Swing_10
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 658
+        width: 46
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 453bf76b125262e50800000000000000
+      internalID: 6784150715406201684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Attack Two Hand Swing_11
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 656
+        width: 34
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b592b94fdc9826020800000000000000
+      internalID: 2333579074596448603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Attack Two Hand Swing_12
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 501
+        width: 57
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05327843b43c88950800000000000000
+      internalID: 6451621193979470672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Attack Two Hand Swing_13
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 501
+        width: 41
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d978d32db75a4a30800000000000000
+      internalID: 4200266072338233815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Attack Two Hand Swing_14
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 500
+        width: 82
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6bfa320d7006c040800000000000000
+      internalID: 4667418600724429677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Attack Two Hand Swing_15
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 344
+        width: 48
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f6aa4814b67f910800000000000000
+      internalID: 1871082099338538885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Attack Two Hand Swing_16
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 344
+        width: 57
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36490ad53c04d8050800000000000000
+      internalID: 5804366702584042595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Attack Two Hand Swing_17
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 341
+        width: 89
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70aef0be92afa56c0800000000000000
+      internalID: -4153732648351569401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Attack Two Hand Swing_18
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 183
+        width: 50
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb47bb690a856fb50800000000000000
+      internalID: 6626581348469142716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Attack Two Hand Swing_19
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 184
+        width: 53
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 755ef079ce1a85960800000000000000
+      internalID: 7590995209451726167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Attack Two Hand Swing_20
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 183
+        width: 89
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d272544e2894ee9d0800000000000000
+      internalID: -2743174296497739987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Attack Two Hand Swing_21
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 19
+        width: 58
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799be88849ebb9150800000000000000
+      internalID: 5880503283617806743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Attack Two Hand Swing_22
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 19
+        width: 44
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f828b62847c901f10800000000000000
+      internalID: 2238461039021359759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Archer_Attack Two Hand Swing_23
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 18
+        width: 83
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 654000f1de8a11100800000000000000
+      internalID: 77028405022819414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
