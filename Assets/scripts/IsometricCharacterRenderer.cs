@@ -20,19 +20,37 @@ public class IsometricCharacterRenderer : MonoBehaviour
     Animator animator;
     int lastDirection;
     public bool isIdle = true;
-
+    public bool isJumping = false;
+    public bool isAttacking = false;
+    public bool isDucking = false;
     private void Awake()
     {
         //cache the animator component
         animator = GetComponent<Animator>();
     }
 
-    public void jump(Vector2 direction)
+    public void jump()
     {
-        string[] directionArray = null;
-        directionArray = JumpDirections;
-        lastDirection = DirectionToIndex(direction, 8);
-        animator.Play(directionArray[lastDirection]);
+        isJumping = true;
+        StartCoroutine(PlayAndWaitForAnim( animator, JumpDirections[lastDirection]));
+    }
+
+
+
+    public IEnumerator PlayAndWaitForAnim(Animator targetAnim, string stateName)
+    {
+        targetAnim.Play(stateName);
+        yield return new WaitForSeconds(0.25f);
+        //Done playing. Do something below!
+        Debug.Log("Done Playing");
+        isJumping = false;
+
+    }
+
+    public void Attack()
+    {
+        isJumping = true;
+        StartCoroutine(PlayAndWaitForAnim(animator, AttackDirections[lastDirection]));
     }
 
     public void setMovementSpeed(float speed)
@@ -41,17 +59,21 @@ public class IsometricCharacterRenderer : MonoBehaviour
     }
 
 
-    public void SetDirection(Vector2 direction){
-     
+    public void SetDirection(Vector2 direction)
+    {
 
         //use the Run states by default
-        string[] directionArray = IdleDirections;
+        string[] directionArray = null;
         //measure the magnitude of the input.
         if (isIdle)
         // if (direction.magnitude < .01f)
         {
+            if(isDucking)
+                directionArray = DuckDirections;
+            else
+                directionArray = IdleDirections;
 
-            directionArray = IdleDirections;
+            animator.Play(directionArray[lastDirection]);
         }
         else
         {
@@ -84,7 +106,11 @@ public class IsometricCharacterRenderer : MonoBehaviour
             }
             else if (isIdle)
             {
-                directionArray = IdleDirections;
+                if (isDucking)
+                    directionArray = DuckDirections;
+                else
+                    directionArray = IdleDirections;
+
                 animator.speed = .1f;
                 animator.SetFloat("Speed", 0f);
             }
@@ -95,14 +121,14 @@ public class IsometricCharacterRenderer : MonoBehaviour
                 animator.speed = .1f;
                 animator.SetFloat("Speed", 0.5f);
             }
-            
-               
+
+            lastDirection = DirectionToIndex(direction, 8);
+            animator.SetInteger("direction", lastDirection);
+            //tell the animator to play the requested state
+            animator.Play(directionArray[lastDirection]);
             //}
         }
-        lastDirection = DirectionToIndex(direction, 8);
-        animator.SetInteger("direction", lastDirection);
-        //tell the animator to play the requested state
-         animator.Play(directionArray[lastDirection]);
+       
 
     }
 

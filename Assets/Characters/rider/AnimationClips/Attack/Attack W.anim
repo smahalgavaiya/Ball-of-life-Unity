@@ -6,7 +6,7 @@ AnimationClip:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Duck  SE
+  m_Name: Attack W
   serializedVersion: 6
   m_Legacy: 0
   m_Compressed: 0
@@ -23,8 +23,8 @@ AnimationClip:
       - serializedVersion: 3
         time: 0
         value: 0
-        inSlope: 0
-        outSlope: 0
+        inSlope: Infinity
+        outSlope: Infinity
         tangentMode: 103
         weightedMode: 0
         inWeight: 0
@@ -36,33 +36,14 @@ AnimationClip:
     path: 
     classID: 212
     script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 103
-        weightedMode: 0
-        inWeight: 0
-        outWeight: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_FlipY
-    path: 
-    classID: 212
-    script: {fileID: 0}
   m_PPtrCurves:
   - curve:
     - time: 0
-      value: {fileID: 8198236908977426772, guid: bab365db4f562e946a673a630ddd6419, type: 3}
+      value: {fileID: 5713046359864073621, guid: be4786c8324c25042b5d7801f2e8165b, type: 3}
     - time: 0.083333336
-      value: {fileID: 9037037041333773747, guid: bab365db4f562e946a673a630ddd6419, type: 3}
+      value: {fileID: -6109488035803651552, guid: be4786c8324c25042b5d7801f2e8165b, type: 3}
     - time: 0.16666667
-      value: {fileID: -2894108719935147545, guid: bab365db4f562e946a673a630ddd6419, type: 3}
+      value: {fileID: 5473880444865325174, guid: be4786c8324c25042b5d7801f2e8165b, type: 3}
     attribute: m_Sprite
     path: 
     classID: 212
@@ -76,13 +57,6 @@ AnimationClip:
     genericBindings:
     - serializedVersion: 2
       path: 0
-      attribute: 0
-      script: {fileID: 0}
-      typeID: 212
-      customType: 23
-      isPPtrCurve: 1
-    - serializedVersion: 2
-      path: 0
       attribute: 555744692
       script: {fileID: 0}
       typeID: 212
@@ -90,15 +64,15 @@ AnimationClip:
       isPPtrCurve: 0
     - serializedVersion: 2
       path: 0
-      attribute: 1444465954
+      attribute: 0
       script: {fileID: 0}
       typeID: 212
-      customType: 0
-      isPPtrCurve: 0
+      customType: 23
+      isPPtrCurve: 1
     pptrCurveMapping:
-    - {fileID: 8198236908977426772, guid: bab365db4f562e946a673a630ddd6419, type: 3}
-    - {fileID: 9037037041333773747, guid: bab365db4f562e946a673a630ddd6419, type: 3}
-    - {fileID: -2894108719935147545, guid: bab365db4f562e946a673a630ddd6419, type: 3}
+    - {fileID: 5713046359864073621, guid: be4786c8324c25042b5d7801f2e8165b, type: 3}
+    - {fileID: -6109488035803651552, guid: be4786c8324c25042b5d7801f2e8165b, type: 3}
+    - {fileID: 5473880444865325174, guid: be4786c8324c25042b5d7801f2e8165b, type: 3}
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}
@@ -126,8 +100,8 @@ AnimationClip:
       - serializedVersion: 3
         time: 0
         value: 0
-        inSlope: 0
-        outSlope: 0
+        inSlope: Infinity
+        outSlope: Infinity
         tangentMode: 103
         weightedMode: 0
         inWeight: 0
@@ -136,25 +110,6 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_FlipX
-    path: 
-    classID: 212
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 103
-        weightedMode: 0
-        inWeight: 0
-        outWeight: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_FlipY
     path: 
     classID: 212
     script: {fileID: 0}

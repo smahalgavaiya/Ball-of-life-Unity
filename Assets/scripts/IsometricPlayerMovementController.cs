@@ -15,14 +15,33 @@ public class IsometricPlayerMovementController : MonoBehaviour
         rbody = GetComponent<Rigidbody2D>();
         isoRenderer = GetComponentInChildren<IsometricCharacterRenderer>();
     }
-
+    private void Update()
+    {
+        if (Input.GetKeyDown("space"))
+        {
+            rbody.AddForce(Vector2.up * 20f);
+            isoRenderer.jump();
+            Debug.Log("Jump");
+        }
+        if (Input.GetKeyDown("l"))
+        {
+            isoRenderer.Attack();
+            Debug.Log("Attack");
+        }
+        if (Input.GetKeyDown("c"))
+        {
+            if(isoRenderer.isDucking)
+                isoRenderer.isDucking=false;
+            else
+                isoRenderer.isDucking = true;
+            Debug.Log("isDucking");
+        }
+    }
 
     // Update is called once per frame
     void FixedUpdate()
     {
        
-       
-        
         Vector2 currentPos = rbody.position;
         float horizontalInput = Input.GetAxis("Horizontal");
         float verticalInput = Input.GetAxis("Vertical");
@@ -32,11 +51,10 @@ public class IsometricPlayerMovementController : MonoBehaviour
         Vector2 newPos = currentPos + movement * Time.fixedDeltaTime;
         rbody.MovePosition(newPos);
 
-
         //if (inputVector.magnitude > .01f)
         //if (inputVector.magnitude < .55f)
         //{
-          movementSpeed = 0.35f;
+        movementSpeed = 0.35f;
         isoRenderer.isIdle = true;
         //}
         if (inputVector.magnitude > .85f)
@@ -58,18 +76,9 @@ public class IsometricPlayerMovementController : MonoBehaviour
         }
        
         isoRenderer.setMovementSpeed(movementSpeed);
-        isoRenderer.SetDirection(movement);
+        if(!isoRenderer.isJumping)
+            isoRenderer.SetDirection(movement);
 
-        if (Input.GetKeyDown("space"))
-        {
-            rbody.AddForce(Vector2.up * 20f);
-            isoRenderer.jump(movement);
-            Debug.Log("Jump");
-        }
+
     }
-
-   /* private void Update()
-    {
-        isoRenderer.setMovementSpeed(movementSpeed);
-    }*/
 }

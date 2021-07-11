@@ -6,7 +6,7 @@ AnimationClip:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Attack  NW
+  m_Name: Duck NW
   serializedVersion: 6
   m_Legacy: 0
   m_Compressed: 0
@@ -39,11 +39,11 @@ AnimationClip:
   m_PPtrCurves:
   - curve:
     - time: 0
-      value: {fileID: 5944682921731923365, guid: be4786c8324c25042b5d7801f2e8165b, type: 3}
+      value: {fileID: 5241375010852317014, guid: bab365db4f562e946a673a630ddd6419, type: 3}
     - time: 0.083333336
-      value: {fileID: 4262461388118910126, guid: be4786c8324c25042b5d7801f2e8165b, type: 3}
+      value: {fileID: 7742355648199288765, guid: bab365db4f562e946a673a630ddd6419, type: 3}
     - time: 0.16666667
-      value: {fileID: 8412132700276538024, guid: be4786c8324c25042b5d7801f2e8165b, type: 3}
+      value: {fileID: -888152624849188751, guid: bab365db4f562e946a673a630ddd6419, type: 3}
     attribute: m_Sprite
     path: 
     classID: 212
@@ -70,9 +70,9 @@ AnimationClip:
       customType: 23
       isPPtrCurve: 1
     pptrCurveMapping:
-    - {fileID: 5944682921731923365, guid: be4786c8324c25042b5d7801f2e8165b, type: 3}
-    - {fileID: 4262461388118910126, guid: be4786c8324c25042b5d7801f2e8165b, type: 3}
-    - {fileID: 8412132700276538024, guid: be4786c8324c25042b5d7801f2e8165b, type: 3}
+    - {fileID: 5241375010852317014, guid: bab365db4f562e946a673a630ddd6419, type: 3}
+    - {fileID: 7742355648199288765, guid: bab365db4f562e946a673a630ddd6419, type: 3}
+    - {fileID: -888152624849188751, guid: bab365db4f562e946a673a630ddd6419, type: 3}
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}
