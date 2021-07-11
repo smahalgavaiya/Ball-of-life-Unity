@@ -49,7 +49,7 @@ public class EnemyMove : Enemies
             //if player in front of the enemies
             if (playerTransform.position.x < transform.position.x)
             {
-
+          
                 if (checkAttackRadius(playerTransform.position.x, transform.position.x))
                 {
                     //for attack animation
@@ -59,12 +59,18 @@ public class EnemyMove : Enemies
                 else
                 {
                     this.transform.position += new Vector3(-getMoveSpeed() * Time.deltaTime, 0f, 0f);
+                    
+
                     //for attack animation
-                   // enemyAnim.SetBool("AttackA", false);
+                    // enemyAnim.SetBool("AttackA", false);
                     isoRenderer.isJumping = false;
+                    isoRenderer.isIdle = false;
+
+                    if (!isoRenderer.isJumping)
+                        isoRenderer.SetDirection(Vector2.left);
                     //walk
                     //enemyAnim.SetBool("Walking", true);
-                    isoRenderer.isIdle = false;
+                   
                     enemySR.flipX = true;
                 }
 
@@ -72,6 +78,7 @@ public class EnemyMove : Enemies
             //if player is behind enemies
             else if (playerTransform.position.x > transform.position.x)
             {
+               
                 if (checkAttackRadius(playerTransform.position.x, transform.position.x))
                 {
                     //for attack animation
@@ -81,12 +88,17 @@ public class EnemyMove : Enemies
                 else
                 {
                     this.transform.position += new Vector3(getMoveSpeed() * Time.deltaTime, 0f, 0f);
+                
                     //for attack animation
                     //enemyAnim.SetBool("AttackA", false);
                     isoRenderer.isJumping = false;
+                    isoRenderer.isIdle = false;
+
+                    if (!isoRenderer.isJumping)
+                        isoRenderer.SetDirection(Vector2.right);
                     //walk
                     //enemyAnim.SetBool("Walking", true);
-                    isoRenderer.isIdle = false;
+                  
                     enemySR.flipX = false;
                 }
 
@@ -96,7 +108,10 @@ public class EnemyMove : Enemies
         else if (isoRenderer!=null)
         {
             //enemyAnim.SetBool("Walking", false);
-            isoRenderer.isIdle = false;
+            isoRenderer.isIdle = true;
+
+            if (!isoRenderer.isJumping)
+                isoRenderer.SetDirection(Vector2.up);
         }
 
 

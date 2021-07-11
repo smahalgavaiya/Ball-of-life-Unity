@@ -248,7 +248,7 @@ MonoBehaviour:
   _moveSpeed: 1
   _attackDamage: 0
   _lifePoints: 0
-  _attackRadius: 0.1
+  _attackRadius: 0.25
   isoRenderer: {fileID: 4150735797622914910}
   _followRadius: 10
   playerTransform: {fileID: 0}
