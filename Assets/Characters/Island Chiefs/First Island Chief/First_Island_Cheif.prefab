@@ -245,14 +245,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 15f3ce2d80d16824a94a9a338c451ac8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  attackDamage: 10
+  playerHealth: 100
+  damaged: 0
   _moveSpeed: 1
-  _attackDamage: 0
   _lifePoints: 0
   _attackRadius: 0.25
   isoRenderer: {fileID: 4150735797622914910}
   _followRadius: 10
   playerTransform: {fileID: 0}
   enemyAnim: {fileID: 9129303625691338090}
+  isMinion: 0
 --- !u!1 &8321916995478786722
 GameObject:
   m_ObjectHideFlags: 0

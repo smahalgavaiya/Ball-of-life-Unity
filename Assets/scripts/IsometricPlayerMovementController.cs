@@ -1,12 +1,18 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class IsometricPlayerMovementController : MonoBehaviour
 {
+    [Range(1, 100)] public int attackDamage = 10;
+    [Range(0, 100)] public int playerHealth = 100;
+    public bool damaged = false;
+    public Slider healthSlider;
 
     public float movementSpeed = 1f;
     IsometricCharacterRenderer isoRenderer;
+  
 
     Rigidbody2D rbody;
 
@@ -15,8 +21,25 @@ public class IsometricPlayerMovementController : MonoBehaviour
         rbody = GetComponent<Rigidbody2D>();
         isoRenderer = GetComponentInChildren<IsometricCharacterRenderer>();
     }
+    private void OnTriggerEnter2D(Collider2D col)
+    {
+        // gets PlayerHealth component on this or any parent object
+        if (col.tag == "Enemy")
+        {
+            Debug.Log("Take damge");
+            TakeDamage(attackDamage);
+        }
+    }
+
+    public void TakeDamage(int amount)
+    {
+        damaged = true;
+        playerHealth -= amount;
+        healthSlider.value = playerHealth;
+    }
     private void Update()
     {
+        damaged = false;
         if (Input.GetKeyDown("space"))
         {
             rbody.AddForce(Vector2.up * 20f);

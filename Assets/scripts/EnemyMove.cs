@@ -4,10 +4,13 @@ using UnityEngine;
 
 public class EnemyMove : Enemies
 {
+    [Range(1, 100)] public int attackDamage1 = 10;
+    [Range(0, 100)] public int playerHealth = 10;
+    public bool damaged = false;
 
     //variables
     public int _moveSpeed;
-    public int _attackDamage;
+    //public int _attackDamage;
     public int _lifePoints;
     public float _attackRadius;
 
@@ -20,10 +23,34 @@ public class EnemyMove : Enemies
     [SerializeField] Animator enemyAnim;
     SpriteRenderer enemySR;
 
+    public bool isMinion = false;
+
     private void Awake()
     {
         //rbody = GetComponent<Rigidbody2D>();
         isoRenderer = GetComponentInChildren<IsometricCharacterRenderer>();
+    }
+
+    private void OnTriggerEnter2D(Collider2D col)
+    {
+        // gets PlayerHealth component on this or any parent object
+        if (col.tag == "Player")
+        {
+            Debug.Log("Take damge from player");
+            TakeDamage(attackDamage1);
+        }
+    }
+
+    public void TakeDamage(int amount)
+    {
+        damaged = true;
+        playerHealth -= amount;
+        if (playerHealth <= 0)
+        {
+            GameObject.Destroy(gameObject);
+            GameManager.gmInstance.updateKillCount(isMinion);
+        }
+        //healthSlider.value = playerHealth;
     }
 
     void Start()
@@ -35,7 +62,7 @@ public class EnemyMove : Enemies
         enemySR = isoRenderer.gameObject.GetComponent<SpriteRenderer>();
         //set the variables
         setMoveSpeed(_moveSpeed);
-        setAttackDamage(_attackDamage);
+        setAttackDamage(attackDamage1);
         setLifePoints(_lifePoints);
         setAttackRadius(_attackRadius);
         setFollowRadius(_followRadius);
@@ -44,7 +71,8 @@ public class EnemyMove : Enemies
     // Update is called once per frame
     void Update()
     {
-
+        if(playerTransform==null)
+            playerTransform = FindObjectOfType<IsometricPlayerMovementController>().GetComponent<Transform>();
         if (checkFollowRadius(playerTransform.position.x, transform.position.x))
         {
             //if player in front of the enemies
