@@ -44,6 +44,7 @@ public class EnemyMove : Enemies
     // Update is called once per frame
     void Update()
     {
+
         if (checkFollowRadius(playerTransform.position.x, transform.position.x))
         {
             //if player in front of the enemies
@@ -55,6 +56,8 @@ public class EnemyMove : Enemies
                     //for attack animation
                     //enemyAnim.SetBool("AttackA", true);
                     isoRenderer.Attack();
+                    if (!isoRenderer.isJumping)
+                        isoRenderer.SetDirection(Vector2.up);
                 }
                 else
                 {
@@ -83,6 +86,8 @@ public class EnemyMove : Enemies
                 {
                     //for attack animation
                     //enemyAnim.SetBool("AttackA", true);
+                    if (!isoRenderer.isJumping)
+                        isoRenderer.SetDirection(Vector2.down);
                     isoRenderer.Attack();
                 }
                 else
